@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutAuthorLink" xml:space="preserve">
+    <value>Juliana Peña</value>
+  </data>
+  <data name="AboutCoffeeLink" xml:space="preserve">
+    <value>¡Cómprame un café!</value>
+  </data>
+  <data name="AboutCoffeePrompt" xml:space="preserve">
+    <value>¿Te gusta esta app?</value>
+  </data>
+  <data name="AboutCreatedBy" xml:space="preserve">
+    <value>Creada por</value>
+  </data>
+  <data name="AboutDisclaimer" xml:space="preserve">
+    <value>Esta app usa el API de Remember the Milk pero no está avalada o certificada por Remember The Milk.</value>
+  </data>
+  <data name="AboutOK" xml:space="preserve">
+    <value>ok</value>
+  </data>
+  <data name="AboutPageHeader" xml:space="preserve">
+    <value>acerca de</value>
+  </data>
+  <data name="AboutRTMLink" xml:space="preserve">
+    <value>Ir a Remember the Milk</value>
+  </data>
+  <data name="AboutVersion" xml:space="preserve">
+    <value>Versión 1.3</value>
+  </data>
+  <data name="AddTaskAppbar" xml:space="preserve">
+    <value>agregar tarea</value>
+  </data>
+  <data name="AddTasksButton" xml:space="preserve">
+    <value>agregar</value>
+  </data>
+  <data name="AdvancedTaskAddLink" xml:space="preserve">
+    <value>avanzado...</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>WinMilk</value>
+  </data>
+  <data name="AppNameCaps" xml:space="preserve">
+    <value>WINMILK</value>
+  </data>
+  <data name="AppNameLower" xml:space="preserve">
+    <value>winmilk</value>
+  </data>
+  <data name="AuthDoneButton" xml:space="preserve">
+    <value>listo</value>
+  </data>
+  <data name="AuthInstructions" xml:space="preserve">
+    <value>Después de ingresar y autorizar la app, toca el botón de listo</value>
+  </data>
+  <data name="AuthPageTitle" xml:space="preserve">
+    <value>INGRESAR</value>
+  </data>
+  <data name="CancelTaskAddLink" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="ListPageTitle" xml:space="preserve">
+    <value>LISTA</value>
+  </data>
+  <data name="ListsHeader" xml:space="preserve">
+    <value>listas</value>
+  </data>
+  <data name="LogInMessageBoxText" xml:space="preserve">
+    <value>Debes ingresar con tu cuenta antes de continuar</value>
+  </data>
+  <data name="LogInMessageBoxTitle" xml:space="preserve">
+    <value>¡Bienvenido a WinMilk!</value>
+  </data>
+  <data name="LogOutMessageBoxText" xml:space="preserve">
+    <value>¿Cerrar sesión y borrar tu configuración?</value>
+  </data>
+  <data name="LogOutMessageBoxTitle" xml:space="preserve">
+    <value>Cerrar sesión</value>
+  </data>
+  <data name="MoreAboutButton" xml:space="preserve">
+    <value>acerca de</value>
+  </data>
+  <data name="MoreActionsHeader" xml:space="preserve">
+    <value>más</value>
+  </data>
+  <data name="MoreDonateButton" xml:space="preserve">
+    <value>donar</value>
+  </data>
+  <data name="MoreLogoutButton" xml:space="preserve">
+    <value>cerrar sesión</value>
+  </data>
+  <data name="MoreReportButton" xml:space="preserve">
+    <value>reportar falla o sugerencia</value>
+  </data>
+  <data name="MoreSearchButton" xml:space="preserve">
+    <value>buscar</value>
+  </data>
+  <data name="MoreSettingsButton" xml:space="preserve">
+    <value>opciones</value>
+  </data>
+  <data name="MoreTagsButton" xml:space="preserve">
+    <value>etiquetas</value>
+  </data>
+  <data name="NoDueTasksHeader" xml:space="preserve">
+    <value>sin límite</value>
+  </data>
+  <data name="OverdueTasksHeader" xml:space="preserve">
+    <value>atrasadas</value>
+  </data>
+  <data name="PinAppbar" xml:space="preserve">
+    <value>prender a hub</value>
+  </data>
+  <data name="SearchPageHeader" xml:space="preserve">
+    <value>buscar</value>
+  </data>
+  <data name="SmartAddExample" xml:space="preserve">
+    <value>Ej: recoger la leche today !1 #personal</value>
+  </data>
+  <data name="SmartAddHeader" xml:space="preserve">
+    <value>smart add</value>
+  </data>
+  <data name="SyncAppbar" xml:space="preserve">
+    <value>sincronizar</value>
+  </data>
+  <data name="TagPageTitle" xml:space="preserve">
+    <value>ETIQUETA</value>
+  </data>
+  <data name="TagsHeader" xml:space="preserve">
+    <value>etiquetas</value>
+  </data>
+  <data name="TaskCompleteButton" xml:space="preserve">
+    <value>completar</value>
+  </data>
+  <data name="TaskDetailsHeader" xml:space="preserve">
+    <value>tarea</value>
+  </data>
+  <data name="TaskListDetail" xml:space="preserve">
+    <value>Lista</value>
+  </data>
+  <data name="TaskNotesAddButton" xml:space="preserve">
+    <value>añadir</value>
+  </data>
+  <data name="TaskNotesDeleteButton" xml:space="preserve">
+    <value>borrar</value>
+  </data>
+  <data name="TaskNotesEditButton" xml:space="preserve">
+    <value>editar</value>
+  </data>
+  <data name="TaskNotesHeader" xml:space="preserve">
+    <value>notas</value>
+  </data>
+  <data name="TaskPostponeButton" xml:space="preserve">
+    <value>posponer</value>
+  </data>
+  <data name="TasksHeader" xml:space="preserve">
+    <value>tareas</value>
+  </data>
+  <data name="TaskTagsDetail" xml:space="preserve">
+    <value>Etiq.</value>
+  </data>
+  <data name="TaskURLDetail" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="TaskWhenDetail" xml:space="preserve">
+    <value>Fecha</value>
+  </data>
+  <data name="TodayTasksHeader" xml:space="preserve">
+    <value>hoy</value>
+  </data>
+  <data name="TomorrowTasksHeader" xml:space="preserve">
+    <value>mañana</value>
+  </data>
+  <data name="WeekTasksHeader" xml:space="preserve">
+    <value>esta semana</value>
+  </data>
+  <data name="AboutVisitSite" xml:space="preserve">
+    <value>Visita el sitio de WinMilk</value>
+  </data>
+  <data name="AddTaskDue" xml:space="preserve">
+    <value>Límite</value>
+  </data>
+  <data name="AddTaskDueDay" xml:space="preserve">
+    <value>Día</value>
+  </data>
+  <data name="AddTaskDueNever" xml:space="preserve">
+    <value>Nunca</value>
+  </data>
+  <data name="AddTaskDueTime" xml:space="preserve">
+    <value>Hora</value>
+  </data>
+  <data name="AddTaskList" xml:space="preserve">
+    <value>Lista</value>
+  </data>
+  <data name="AddTaskName" xml:space="preserve">
+    <value>Nomb.</value>
+  </data>
+  <data name="AddTaskPriority" xml:space="preserve">
+    <value>Prioridad</value>
+  </data>
+  <data name="AddTaskPriorityNone" xml:space="preserve">
+    <value>N</value>
+  </data>
+  <data name="AddTaskTags" xml:space="preserve">
+    <value>Etiq.</value>
+  </data>
+  <data name="AddTaskTitle" xml:space="preserve">
+    <value>agregar tarea</value>
+  </data>
+  <data name="AboutReport" xml:space="preserve">
+    <value>Reportar una falla o hacer una sugerencia</value>
+  </data>
+  <data name="AboutReview" xml:space="preserve">
+    <value>Escribir una opinión de esta app</value>
+  </data>
+  <data name="AuthRetryButton" xml:space="preserve">
+    <value>reintentar</value>
+  </data>
+  <data name="TaskEditButton" xml:space="preserve">
+    <value>editar</value>
+  </data>
+  <data name="EditTaskTitle" xml:space="preserve">
+    <value>editar tarea</value>
+  </data>
+  <data name="EditTaskSaveButton" xml:space="preserve">
+    <value>guardar</value>
+  </data>
+  <data name="TaskDeleteButton" xml:space="preserve">
+    <value>borrar</value>
+  </data>
+  <data name="TaskDeleteConfirmText" xml:space="preserve">
+    <value>¿Borrar esta tarea permanentemente?</value>
+  </data>
+  <data name="TaskDeleteConfirmTitle" xml:space="preserve">
+    <value>Borrar tarea</value>
+  </data>
+  <data name="TaskShareEmailButton" xml:space="preserve">
+    <value>compartir por correo</value>
+  </data>
+  <data name="TaskShareMessageButton" xml:space="preserve">
+    <value>compartir por sms</value>
+  </data>
+  <data name="TaskShareDue" xml:space="preserve">
+    <value>Límite</value>
+  </data>
+  <data name="TaskShareList" xml:space="preserve">
+    <value>Lista</value>
+  </data>
+  <data name="TaskShareNotes" xml:space="preserve">
+    <value>Notas</value>
+  </data>
+  <data name="TaskShareTags" xml:space="preserve">
+    <value>Etiquetas</value>
+  </data>
+  <data name="TaskShareTask" xml:space="preserve">
+    <value>Tarea</value>
+  </data>
+  <data name="TaskShareUrl" xml:space="preserve">
+    <value>Url</value>
+  </data>
+  <data name="SettingsPageHeader" xml:space="preserve">
+    <value>opciones</value>
+  </data>
+  <data name="SettingsStartPage" xml:space="preserve">
+    <value>Página de inicio</value>
+  </data>
+  <data name="EditNotePageAddHeader" xml:space="preserve">
+    <value>añadir nota</value>
+  </data>
+  <data name="EditNotePageDeleteNoteMessage" xml:space="preserve">
+    <value>Nota será borrada permanentemente.</value>
+  </data>
+  <data name="EditNotePageDeleteNoteTitle" xml:space="preserve">
+    <value>¿Borrar nota?</value>
+  </data>
+  <data name="EditNotePageEditHeader" xml:space="preserve">
+    <value>editar nota</value>
+  </data>
+  <data name="EditNotePageNoteError" xml:space="preserve">
+    <value>Error: No hay nota seleccionada</value>
+  </data>
+  <data name="EditNotePageTaskError" xml:space="preserve">
+    <value>Error: No hay tarea seleccionada</value>
+  </data>
+  <data name="AddTaskRecurrence" xml:space="preserve">
+    <value>Repite</value>
+  </data>
+  <data name="RecurrAfter2Weeks" xml:space="preserve">
+    <value>en 2 semanas</value>
+  </data>
+  <data name="RecurrAfterDay" xml:space="preserve">
+    <value>en 1 día</value>
+  </data>
+  <data name="RecurrAfterMonth" xml:space="preserve">
+    <value>en 1 mes</value>
+  </data>
+  <data name="RecurrAfterWeek" xml:space="preserve">
+    <value>en 1 semana</value>
+  </data>
+  <data name="RecurrAfterYear" xml:space="preserve">
+    <value>en 1 año</value>
+  </data>
+  <data name="RecurrBiweekly" xml:space="preserve">
+    <value>cada 2 semanas</value>
+  </data>
+  <data name="RecurrDaily" xml:space="preserve">
+    <value>cada día</value>
+  </data>
+  <data name="RecurrMonthly" xml:space="preserve">
+    <value>cada mes</value>
+  </data>
+  <data name="RecurrNever" xml:space="preserve">
+    <value>nunca</value>
+  </data>
+  <data name="RecurrWeekly" xml:space="preserve">
+    <value>cada semana</value>
+  </data>
+  <data name="RecurrYearly" xml:space="preserve">
+    <value>cada año</value>
+  </data>
+  <data name="AuthContinueButton" xml:space="preserve">
+    <value>continuar</value>
+  </data>
+  <data name="AuthCreateInstructions" xml:space="preserve">
+    <value>Después de crear la cuenta, toca el botón de continuar</value>
+  </data>
+  <data name="AuthPageAskAccountLine1" xml:space="preserve">
+    <value>¡Bienvenido a WinMilk! WinMilk requiere una cuenta de Remember the Milk.</value>
+  </data>
+  <data name="AuthPageAskAccountLine2" xml:space="preserve">
+    <value>Remember the Milk es un servicio que te permite administrar tus tareas en línea. WinMilk siempre mantendrá tus tareas sincronizadas con RTM.</value>
+  </data>
+  <data name="AuthPageAskAccountLine3" xml:space="preserve">
+    <value>¿Ya tienes una cuenta de Remember the Milk?</value>
+  </data>
+  <data name="AuthPageAskAccountNoButton" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="AuthPageAskAccountYesButton" xml:space="preserve">
+    <value>Sí</value>
+  </data>
+  <data name="AboutCodeplex" xml:space="preserve">
+    <value>WinMilk es un proyecto de código abierto alojado en CodePlex.</value>
+  </data>
+  <data name="AboutCodeplexLink" xml:space="preserve">
+    <value>Ir al sitio del proyecto en CodePlex</value>
+  </data>
+  <data name="AboutContributors" xml:space="preserve">
+    <value>Cualquiera puede contribuir a WinMilk. Contribuidores externos para esta versión son Justin Caton, Aelman y Nanabite.</value>
+  </data>
+</root>
