@@ -1,0 +1,786 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>О программе</value>
+  </data>
+  <data name="AboutLower" xml:space="preserve">
+    <value>о программе</value>
+  </data>
+  <data name="AboutMenu" xml:space="preserve">
+    <value>О программе Milkman</value>
+  </data>
+  <data name="AboutMenuLower" xml:space="preserve">
+    <value>о программе milkman</value>
+  </data>
+  <data name="AboutMenuUpper" xml:space="preserve">
+    <value>О ПРОГРАММЕ MILKMAN</value>
+  </data>
+  <data name="AboutUpper" xml:space="preserve">
+    <value>О ПРОГРАММЕ</value>
+  </data>
+  <data name="AddButton" xml:space="preserve">
+    <value>добавить</value>
+  </data>
+  <data name="AddingNote" xml:space="preserve">
+    <value>Добавляю заметку...</value>
+  </data>
+  <data name="AddingTask" xml:space="preserve">
+    <value>Добавляю задачу...</value>
+  </data>
+  <data name="AddMenu" xml:space="preserve">
+    <value>Добавить</value>
+  </data>
+  <data name="AddMenuLower" xml:space="preserve">
+    <value>добавить</value>
+  </data>
+  <data name="AddMenuUpper" xml:space="preserve">
+    <value>ДОБАВИТЬ</value>
+  </data>
+  <data name="AddNote" xml:space="preserve">
+    <value>Добавить заметку</value>
+  </data>
+  <data name="AddNoteLower" xml:space="preserve">
+    <value>добавить заметку</value>
+  </data>
+  <data name="AddNoteUpper" xml:space="preserve">
+    <value>ДОБАВИТЬ ЗАМЕТКУ</value>
+  </data>
+  <data name="AddTaskDialogTitle" xml:space="preserve">
+    <value>Добавить задачу</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>Все</value>
+  </data>
+  <data name="AllLower" xml:space="preserve">
+    <value>все</value>
+  </data>
+  <data name="AllTasks" xml:space="preserve">
+    <value>Все задачи</value>
+  </data>
+  <data name="AllTasksLower" xml:space="preserve">
+    <value>все задачи</value>
+  </data>
+  <data name="AllTasksUpper" xml:space="preserve">
+    <value>ВСЕ ЗАДАЧИ</value>
+  </data>
+  <data name="AllUpper" xml:space="preserve">
+    <value>ВСЕ</value>
+  </data>
+  <data name="Authorization" xml:space="preserve">
+    <value>Авторизация</value>
+  </data>
+  <data name="AuthorizationDialog" xml:space="preserve">
+    <value>Войдите в Remember The Milk чтобы авторизировать Milkman. Когда вы закончите процесс авторизации, нажмите кнопку Завершить чтобы продолжить.</value>
+  </data>
+  <data name="AuthorizationDialogTitle" xml:space="preserve">
+    <value>Авторизация</value>
+  </data>
+  <data name="AuthorizationLower" xml:space="preserve">
+    <value>авторизация</value>
+  </data>
+  <data name="AuthorizationUpper" xml:space="preserve">
+    <value>АВТОРИЗАЦИЯ</value>
+  </data>
+  <data name="Authorizing" xml:space="preserve">
+    <value>Авторизирую...</value>
+  </data>
+  <data name="AutomaticSyncSetting" xml:space="preserve">
+    <value>Синхронизировать данные автоматически</value>
+  </data>
+  <data name="Body" xml:space="preserve">
+    <value>Содержимое</value>
+  </data>
+  <data name="BodyLower" xml:space="preserve">
+    <value>содержимое</value>
+  </data>
+  <data name="BodyUpper" xml:space="preserve">
+    <value>СОДЕРЖИМОЕ</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>отмена</value>
+  </data>
+  <data name="CancelMenu" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="CancelMenuLower" xml:space="preserve">
+    <value>отмена</value>
+  </data>
+  <data name="CancelMenuUpper" xml:space="preserve">
+    <value>ОТМЕНА</value>
+  </data>
+  <data name="CompleteDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите пометить эту задачу как завершенную?</value>
+  </data>
+  <data name="CompleteDialogTitle" xml:space="preserve">
+    <value>Завершить</value>
+  </data>
+  <data name="CompleteMenu" xml:space="preserve">
+    <value>Завершить</value>
+  </data>
+  <data name="CompleteMenuLower" xml:space="preserve">
+    <value>завершить</value>
+  </data>
+  <data name="CompleteMenuUpper" xml:space="preserve">
+    <value>ЗАВЕРШИТЬ</value>
+  </data>
+  <data name="CompleteTaskPluralDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите пометить выбранные задачи как завершенные?</value>
+  </data>
+  <data name="CompleteTaskSingleDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите пометить выбранную задачу как завершенную?</value>
+  </data>
+  <data name="CompletingTask" xml:space="preserve">
+    <value>Завершаю задачу...</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Приборная доска</value>
+  </data>
+  <data name="DashboardLower" xml:space="preserve">
+    <value>Приборная доска</value>
+  </data>
+  <data name="DashboardMenu" xml:space="preserve">
+    <value>Приборная доска</value>
+  </data>
+  <data name="DashboardMenuLower" xml:space="preserve">
+    <value>Приборная доска</value>
+  </data>
+  <data name="DashboardMenuUpper" xml:space="preserve">
+    <value>ПРИБОРНАЯ ДОСКА</value>
+  </data>
+  <data name="DashboardUpper" xml:space="preserve">
+    <value>ПРИБОРНАЯ ДОСКА</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Дата</value>
+  </data>
+  <data name="DateLower" xml:space="preserve">
+    <value>дата</value>
+  </data>
+  <data name="DateTime" xml:space="preserve">
+    <value>Дата и время</value>
+  </data>
+  <data name="DateTimeLower" xml:space="preserve">
+    <value>дата и время</value>
+  </data>
+  <data name="DateTimeUpper" xml:space="preserve">
+    <value>ДАТА И ВРЕМЯ</value>
+  </data>
+  <data name="DateUpper" xml:space="preserve">
+    <value>ДАТА</value>
+  </data>
+  <data name="DeleteMenu" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="DeleteMenuLower" xml:space="preserve">
+    <value>удалить</value>
+  </data>
+  <data name="DeleteMenuUpper" xml:space="preserve">
+    <value>УДАЛИТЬ</value>
+  </data>
+  <data name="DeleteNoteDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить эту заметку?</value>
+  </data>
+  <data name="DeleteNoteDialogTitle" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="DeleteTaskDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить эту задачу?</value>
+  </data>
+  <data name="DeleteTaskDialogTitle" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="DeleteTaskPluralDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить выбранные задачи?</value>
+  </data>
+  <data name="DeleteTaskSingleDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить выбранную задачу?</value>
+  </data>
+  <data name="DeletingNote" xml:space="preserve">
+    <value>Удаляю заметку...</value>
+  </data>
+  <data name="DeletingTask" xml:space="preserve">
+    <value>Удаляю задачу...</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>Детали</value>
+  </data>
+  <data name="DetailsLower" xml:space="preserve">
+    <value>детали</value>
+  </data>
+  <data name="DetailsUpper" xml:space="preserve">
+    <value>ДЕТАЛИ</value>
+  </data>
+  <data name="DisabledOptionSetting" xml:space="preserve">
+    <value>отключено</value>
+  </data>
+  <data name="DonateMenu" xml:space="preserve">
+    <value>Пожертвовать</value>
+  </data>
+  <data name="DonateMenuLower" xml:space="preserve">
+    <value>пожертвовать</value>
+  </data>
+  <data name="DonateMenuUpper" xml:space="preserve">
+    <value>ПОЖЕРТВОВАТЬ</value>
+  </data>
+  <data name="Due" xml:space="preserve">
+    <value>Выполнить</value>
+  </data>
+  <data name="DueAt" xml:space="preserve">
+    <value>в</value>
+  </data>
+  <data name="DueDate" xml:space="preserve">
+    <value>Дата завершения</value>
+  </data>
+  <data name="EditMenu" xml:space="preserve">
+    <value>Изменить</value>
+  </data>
+  <data name="EditMenuLower" xml:space="preserve">
+    <value>изменить</value>
+  </data>
+  <data name="EditMenuUpper" xml:space="preserve">
+    <value>ИЗМЕНИТЬ</value>
+  </data>
+  <data name="EditNote" xml:space="preserve">
+    <value>Изменить заметку</value>
+  </data>
+  <data name="EditNoteLower" xml:space="preserve">
+    <value>изменить заметку</value>
+  </data>
+  <data name="EditNoteUpper" xml:space="preserve">
+    <value>ИЗМЕНИТЬ ЗАМЕТКУ</value>
+  </data>
+  <data name="EditTask" xml:space="preserve">
+    <value>Изменить задачу</value>
+  </data>
+  <data name="EditTaskLower" xml:space="preserve">
+    <value>изменить задачу</value>
+  </data>
+  <data name="EditTaskUpper" xml:space="preserve">
+    <value>ИЗМЕНИТЬ ЗАДАЧУ</value>
+  </data>
+  <data name="EmptyDashboard" xml:space="preserve">
+    <value>У вас нет списков для просмотра.</value>
+  </data>
+  <data name="EmptyNotes" xml:space="preserve">
+    <value>Для этой задачи нет заметок.</value>
+  </data>
+  <data name="EmptyTaskList" xml:space="preserve">
+    <value>В этом списке нет незавершеных задач. Ура!</value>
+  </data>
+  <data name="Estimate" xml:space="preserve">
+    <value>Продолжительность</value>
+  </data>
+  <data name="FeedbackMenu" xml:space="preserve">
+    <value>Отзывы</value>
+  </data>
+  <data name="FeedbackMenuLower" xml:space="preserve">
+    <value>отзывы</value>
+  </data>
+  <data name="FeedbackMenuUpper" xml:space="preserve">
+    <value>ОТЗЫВЫ</value>
+  </data>
+  <data name="FiveMilesOptionSetting" xml:space="preserve">
+    <value>5 миль</value>
+  </data>
+  <data name="HubTileEmpty" xml:space="preserve">
+    <value>Нет задач</value>
+  </data>
+  <data name="HubTilePlural" xml:space="preserve">
+    <value>задачи</value>
+  </data>
+  <data name="HubTileSingle" xml:space="preserve">
+    <value>задача</value>
+  </data>
+  <data name="JustAMoment" xml:space="preserve">
+    <value>Одну минуту...</value>
+  </data>
+  <data name="LightThemeSetting" xml:space="preserve">
+    <value>Всегда использовать светлую тему</value>
+  </data>
+  <data name="List" xml:space="preserve">
+    <value>Список</value>
+  </data>
+  <data name="LiveTileEmpty" xml:space="preserve">
+    <value>Нет задач на сегодня</value>
+  </data>
+  <data name="LiveTileOverdue" xml:space="preserve">
+    <value>просроченные</value>
+  </data>
+  <data name="LiveTilePlural" xml:space="preserve">
+    <value>задачи на сегодня</value>
+  </data>
+  <data name="LiveTileSingle" xml:space="preserve">
+    <value>задача на сегдня</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>Загрузка...</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Местонахождение</value>
+  </data>
+  <data name="LocationServiceSetting" xml:space="preserve">
+    <value>Уведомлять о задачах поблизости</value>
+  </data>
+  <data name="MarketplaceDialog" xml:space="preserve">
+    <value>Прошло несколько дней с тех пор как вы загрузили Milkman. Хотите оставить отзыв в Marketplace?</value>
+  </data>
+  <data name="MarketplaceDialogTitle" xml:space="preserve">
+    <value>Оценить Milkman</value>
+  </data>
+  <data name="Milkman" xml:space="preserve">
+    <value>Milkman</value>
+  </data>
+  <data name="MilkmanLower" xml:space="preserve">
+    <value>milkman</value>
+  </data>
+  <data name="MilkmanUpper" xml:space="preserve">
+    <value>MILKMAN</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Имя</value>
+  </data>
+  <data name="Nearby" xml:space="preserve">
+    <value>Поблизости</value>
+  </data>
+  <data name="NearbyLower" xml:space="preserve">
+    <value>поблизости</value>
+  </data>
+  <data name="NearbyUpper" xml:space="preserve">
+    <value>ПОБЛИЗОСТИ</value>
+  </data>
+  <data name="Never" xml:space="preserve">
+    <value>Никогда</value>
+  </data>
+  <data name="NeverLower" xml:space="preserve">
+    <value>никогда</value>
+  </data>
+  <data name="NeverUpper" xml:space="preserve">
+    <value>НИКОГДА</value>
+  </data>
+  <data name="NoDueDate" xml:space="preserve">
+    <value>Нет даты завернения</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="NoneLower" xml:space="preserve">
+    <value>нет</value>
+  </data>
+  <data name="NoneUpper" xml:space="preserve">
+    <value>НЕТ</value>
+  </data>
+  <data name="NoTasks" xml:space="preserve">
+    <value>Нет задач</value>
+  </data>
+  <data name="Notes" xml:space="preserve">
+    <value>Заметки</value>
+  </data>
+  <data name="NotesLower" xml:space="preserve">
+    <value>заметки</value>
+  </data>
+  <data name="NotesUpper" xml:space="preserve">
+    <value>ЗАМЕТКИ</value>
+  </data>
+  <data name="Off" xml:space="preserve">
+    <value>Выключено</value>
+  </data>
+  <data name="On" xml:space="preserve">
+    <value>Включено</value>
+  </data>
+  <data name="OneHourOptionSetting" xml:space="preserve">
+    <value>1 час</value>
+  </data>
+  <data name="OneMileOptionSetting" xml:space="preserve">
+    <value>1 миля</value>
+  </data>
+  <data name="Overdue" xml:space="preserve">
+    <value>просроченные</value>
+  </data>
+  <data name="OverdueLower" xml:space="preserve">
+    <value>просроченные</value>
+  </data>
+  <data name="OverdueUpper" xml:space="preserve">
+    <value>ПРОСРОЧЕННЫЕ</value>
+  </data>
+  <data name="PeriodicTaskDescription" xml:space="preserve">
+    <value>Управляет напоминаниями задачи, уведомлениями привязанными к местонахождению, и обновлениями живых иконок</value>
+  </data>
+  <data name="PinToStart" xml:space="preserve">
+    <value>На Рабочий Стол</value>
+  </data>
+  <data name="PinToStartDialog" xml:space="preserve">
+    <value>Этот список уже на рабочем столе. Если вы хотите замненить его, удалите иконку с рабочего стола и перезапустите Milkman</value>
+  </data>
+  <data name="PinToStartDialogTitle" xml:space="preserve">
+    <value>На Рабочий Стол</value>
+  </data>
+  <data name="PinToStartLower" xml:space="preserve">
+    <value>на рабочий стол</value>
+  </data>
+  <data name="PinToStartUpper" xml:space="preserve">
+    <value>НА РАБОЧИЙ СТОЛ</value>
+  </data>
+  <data name="Postponed" xml:space="preserve">
+    <value>Отложенные</value>
+  </data>
+  <data name="PostponeDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите отложить эту задачу?</value>
+  </data>
+  <data name="PostponeDialogTitle" xml:space="preserve">
+    <value>Отложить</value>
+  </data>
+  <data name="PostponeMenu" xml:space="preserve">
+    <value>Отложить</value>
+  </data>
+  <data name="PostponeMenuLower" xml:space="preserve">
+    <value>отложить</value>
+  </data>
+  <data name="PostponeMenuUpper" xml:space="preserve">
+    <value>ОТЛОЖИТЬ</value>
+  </data>
+  <data name="PostponeTaskPluralDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите отложить выбранные задачи?</value>
+  </data>
+  <data name="PostponeTaskSingleDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите отложить выбранную задачу?</value>
+  </data>
+  <data name="PostponingTask" xml:space="preserve">
+    <value>Откладываю задачу…</value>
+  </data>
+  <data name="Priority" xml:space="preserve">
+    <value>Приоритет</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Зарегистрировать</value>
+  </data>
+  <data name="RegisterLower" xml:space="preserve">
+    <value>зарегистрировать</value>
+  </data>
+  <data name="RegisterUpper" xml:space="preserve">
+    <value>ЗАРЕГИСТРИРОВАТЬ</value>
+  </data>
+  <data name="Repeat" xml:space="preserve">
+    <value>Повторять</value>
+  </data>
+  <data name="RetryMenu" xml:space="preserve">
+    <value>Повторять</value>
+  </data>
+  <data name="RetryMenuLower" xml:space="preserve">
+    <value>повторять</value>
+  </data>
+  <data name="RetryMenuUpper" xml:space="preserve">
+    <value>ПОВТОРЯТЬ</value>
+  </data>
+  <data name="SaveMenu" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="SaveMenuLower" xml:space="preserve">
+    <value>сохранить</value>
+  </data>
+  <data name="SaveMenuUpper" xml:space="preserve">
+    <value>СОХРАНИТЬ</value>
+  </data>
+  <data name="SavingNote" xml:space="preserve">
+    <value>Сохраняю заметку…</value>
+  </data>
+  <data name="SavingTask" xml:space="preserve">
+    <value>Сохраняю задачу…</value>
+  </data>
+  <data name="SelectMenu" xml:space="preserve">
+    <value>Выбрать</value>
+  </data>
+  <data name="SelectMenuLower" xml:space="preserve">
+    <value>выбрать</value>
+  </data>
+  <data name="SelectMenuUpper" xml:space="preserve">
+    <value>ВЫБРАТЬ</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="SettingsErrorDialog" xml:space="preserve">
+    <value>Что-то пошло не так во время закрузки ваших настроек. Вы можете перезагрузить эту страницу чтобы удостовериться что ваши настройки загружены корректно.</value>
+  </data>
+  <data name="SettingsErrorDialogTitle" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="SettingsLower" xml:space="preserve">
+    <value>настройки</value>
+  </data>
+  <data name="SettingsMenu" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="SettingsMenuLower" xml:space="preserve">
+    <value>настройки</value>
+  </data>
+  <data name="SettingsMenuUpper" xml:space="preserve">
+    <value>НАСТРОЙКИ</value>
+  </data>
+  <data name="SettingsThemeDialog" xml:space="preserve">
+    <value>Ваши изменения в теме будут применены во время следующего запуска Milkman.</value>
+  </data>
+  <data name="SettingsThemeDialogTitle" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="SettingsUpper" xml:space="preserve">
+    <value>НАСТРОЙКИ</value>
+  </data>
+  <data name="SignIn" xml:space="preserve">
+    <value>Войти</value>
+  </data>
+  <data name="SignInLower" xml:space="preserve">
+    <value>войти</value>
+  </data>
+  <data name="SignInUpper" xml:space="preserve">
+    <value>ВОЙТИ</value>
+  </data>
+  <data name="SignOutDialog" xml:space="preserve">
+    <value>Вы уверены, что хотите выйти из Milkman и удалить все ваши данные?</value>
+  </data>
+  <data name="SignOutDialogTitle" xml:space="preserve">
+    <value>Выйти</value>
+  </data>
+  <data name="SignOutMenu" xml:space="preserve">
+    <value>Выйти</value>
+  </data>
+  <data name="SignOutMenuLower" xml:space="preserve">
+    <value>выйти</value>
+  </data>
+  <data name="SignOutMenuUpper" xml:space="preserve">
+    <value>ВЫЙТИ</value>
+  </data>
+  <data name="SyncingTasks" xml:space="preserve">
+    <value>Синхронизирую задачи…</value>
+  </data>
+  <data name="SyncMenu" xml:space="preserve">
+    <value>Синхронизация</value>
+  </data>
+  <data name="SyncMenuLower" xml:space="preserve">
+    <value>синхронизация</value>
+  </data>
+  <data name="SyncMenuUpper" xml:space="preserve">
+    <value>СИНХРОНИЗАЦИЯ</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>Теги</value>
+  </data>
+  <data name="Task" xml:space="preserve">
+    <value>Задача</value>
+  </data>
+  <data name="TaskDetails" xml:space="preserve">
+    <value>Детали Задачи</value>
+  </data>
+  <data name="TaskDetailsLower" xml:space="preserve">
+    <value>детали задачи</value>
+  </data>
+  <data name="TaskDetailsUpper" xml:space="preserve">
+    <value>ДЕТАЛИ ЗАДАЧИ</value>
+  </data>
+  <data name="TaskLower" xml:space="preserve">
+    <value>задача</value>
+  </data>
+  <data name="TaskPlural" xml:space="preserve">
+    <value>задачи</value>
+  </data>
+  <data name="TaskReminderPrefix" xml:space="preserve">
+    <value>Эта задача завершается</value>
+  </data>
+  <data name="TaskRemindersSetting" xml:space="preserve">
+    <value>Уведомлять о времени завершения задачи</value>
+  </data>
+  <data name="TaskSingle" xml:space="preserve">
+    <value>задача</value>
+  </data>
+  <data name="TaskUpper" xml:space="preserve">
+    <value>ЗАДАЧА</value>
+  </data>
+  <data name="ThirtyMinutesOptionSetting" xml:space="preserve">
+    <value>30 минут</value>
+  </data>
+  <data name="TimePlural" xml:space="preserve">
+    <value>раз(а)</value>
+  </data>
+  <data name="TimeSingle" xml:space="preserve">
+    <value>раз</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Название</value>
+  </data>
+  <data name="TitleLower" xml:space="preserve">
+    <value>название</value>
+  </data>
+  <data name="TitleUpper" xml:space="preserve">
+    <value>НАЗВАНИЕ</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Сегодня</value>
+  </data>
+  <data name="TodayLower" xml:space="preserve">
+    <value>сегодня</value>
+  </data>
+  <data name="TodayUpper" xml:space="preserve">
+    <value>СЕГОДНЯ</value>
+  </data>
+  <data name="Tomorrow" xml:space="preserve">
+    <value>Завтра</value>
+  </data>
+  <data name="TomorrowLower" xml:space="preserve">
+    <value>завтра</value>
+  </data>
+  <data name="TomorrowUpper" xml:space="preserve">
+    <value>ЗАВТРА</value>
+  </data>
+  <data name="TwoHoursOptionSetting" xml:space="preserve">
+    <value>2 часа</value>
+  </data>
+  <data name="TwoMilesOptionSetting" xml:space="preserve">
+    <value>2 мили</value>
+  </data>
+  <data name="UnhandledCrashDialog" xml:space="preserve">
+    <value>Непредвиденная ошибка возникла во время предыдущего запуска этого приложения. Хотите отправить email чтобы сообщить о ней?</value>
+  </data>
+  <data name="UnhandledErrorDialog" xml:space="preserve">
+    <value>Возникла непредвиденная ошибка. Хотите отправить email чтобы сообщить о ней?</value>
+  </data>
+  <data name="UnhandledErrorDialogTitle" xml:space="preserve">
+    <value>Сообщение об ошибке</value>
+  </data>
+  <data name="Week" xml:space="preserve">
+    <value>Неделя</value>
+  </data>
+  <data name="WeekLower" xml:space="preserve">
+    <value>неделя</value>
+  </data>
+  <data name="WeekUpper" xml:space="preserve">
+    <value>НЕДЕЛЯ</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Добро пожаловать</value>
+  </data>
+  <data name="WelcomeLower" xml:space="preserve">
+    <value>добро пожаловать</value>
+  </data>
+  <data name="WelcomeUpper" xml:space="preserve">
+    <value>ДОБРО ПОЖАЛОВАТЬ</value>
+  </data>
+  <data name="URL" xml:space="preserve">
+    <value>URL</value>
+  </data>
+</root>
