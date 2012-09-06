@@ -17,8 +17,8 @@
         <Link NavigateUri="http://mbmccormick.com"
               Content="http://mbmccormick.com"
               Label="Sito Web:" />
-        <Link NavigateUri="mailto:milkmanwp@gmail.com"
-              Content="milkmanwp@gmail.com"
+        <Link NavigateUri="mailto:milkman@mbmccormick.com"
+              Content="milkman@mbmccormick.com"
               Label="Supporto:" />
       </Links>
     </MainItem>
@@ -36,7 +36,7 @@
       Remember The Milk è un marchio di Remember The Milk. Questa applicazione utilizza l'interfaccia Remember The Milk, ma non è approvata o certificata da Remember The Milk.
 
       Come contattare l'autore
-      Se avete qualunque domande circa questa politica sulla Privacy, per favore contattaci a milkmanwp@gmail.com.
+      Se avete qualunque domande circa questa politica sulla Privacy, per favore contattaci a milkman@mbmccormick.com.
 
     </Item>
     <Item Title="novità?" Type="text">
