@@ -20,11 +20,6 @@ Application Development by Matt McCormick
 
 User Interface by Libby Puccinelli
 
-What's new in Version 2.4:
-- Milkman now uses HTTPS when communicating with Remember The Milk
-- Redesigned some of the layouts and font sizes throughout the application
-- Several bug fixes
-
 
 ### Update Description
 
