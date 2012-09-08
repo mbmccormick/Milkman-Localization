@@ -250,22 +250,22 @@
     <value>Завершаю задачу...</value>
   </data>
   <data name="Dashboard" xml:space="preserve">
-    <value>Приборная доска</value>
+    <value>Обзорная панель</value>
   </data>
   <data name="DashboardLower" xml:space="preserve">
-    <value>Приборная доска</value>
+    <value>обзорная панель</value>
   </data>
   <data name="DashboardMenu" xml:space="preserve">
-    <value>Приборная доска</value>
+    <value>Обзорная панель</value>
   </data>
   <data name="DashboardMenuLower" xml:space="preserve">
-    <value>Приборная доска</value>
+    <value>обзорная панель</value>
   </data>
   <data name="DashboardMenuUpper" xml:space="preserve">
-    <value>ПРИБОРНАЯ ДОСКА</value>
+    <value>ОБЗОРНАЯ ПАНЕЛЬ</value>
   </data>
   <data name="DashboardUpper" xml:space="preserve">
-    <value>ПРИБОРНАЯ ДОСКА</value>
+    <value>ОБЗОРНАЯ ПАНЕЛЬ</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Дата</value>
@@ -397,7 +397,7 @@
     <value>ОТЗЫВЫ</value>
   </data>
   <data name="FiveMilesOptionSetting" xml:space="preserve">
-    <value>5 миль</value>
+    <value>8 километров</value>
   </data>
   <data name="HubTileEmpty" xml:space="preserve">
     <value>Нет задач</value>
@@ -409,7 +409,7 @@
     <value>задача</value>
   </data>
   <data name="JustAMoment" xml:space="preserve">
-    <value>Одну минуту...</value>
+    <value>Один момент...</value>
   </data>
   <data name="LightThemeSetting" xml:space="preserve">
     <value>Всегда использовать светлую тему</value>
@@ -508,10 +508,10 @@
     <value>1 час</value>
   </data>
   <data name="OneMileOptionSetting" xml:space="preserve">
-    <value>1 миля</value>
+    <value>1,5 километра</value>
   </data>
   <data name="Overdue" xml:space="preserve">
-    <value>просроченные</value>
+    <value>Просроченные</value>
   </data>
   <data name="OverdueLower" xml:space="preserve">
     <value>просроченные</value>
@@ -523,19 +523,19 @@
     <value>Управляет напоминаниями задачи, уведомлениями привязанными к местонахождению, и обновлениями живых иконок</value>
   </data>
   <data name="PinToStart" xml:space="preserve">
-    <value>На Рабочий Стол</value>
+    <value>На Стартовый экран</value>
   </data>
   <data name="PinToStartDialog" xml:space="preserve">
-    <value>Этот список уже на рабочем столе. Если вы хотите замненить его, удалите иконку с рабочего стола и перезапустите Milkman</value>
+    <value>Этот список уже на Стартовом экране. Если вы хотите замненить его, удалите иконку со Стартового экрана и перезапустите Milkman</value>
   </data>
   <data name="PinToStartDialogTitle" xml:space="preserve">
-    <value>На Рабочий Стол</value>
+    <value>На Стартовый экран</value>
   </data>
   <data name="PinToStartLower" xml:space="preserve">
-    <value>на рабочий стол</value>
+    <value>на стартовый экран</value>
   </data>
   <data name="PinToStartUpper" xml:space="preserve">
-    <value>НА РАБОЧИЙ СТОЛ</value>
+    <value>НА СТАРТОВЫЙ ЭКРАН</value>
   </data>
   <data name="Postponed" xml:space="preserve">
     <value>Отложенные</value>
@@ -580,13 +580,13 @@
     <value>Повторять</value>
   </data>
   <data name="RetryMenu" xml:space="preserve">
-    <value>Повторять</value>
+    <value>Повторить</value>
   </data>
   <data name="RetryMenuLower" xml:space="preserve">
-    <value>повторять</value>
+    <value>повторить</value>
   </data>
   <data name="RetryMenuUpper" xml:space="preserve">
-    <value>ПОВТОРЯТЬ</value>
+    <value>ПОВТОРИТЬ</value>
   </data>
   <data name="SaveMenu" xml:space="preserve">
     <value>Сохранить</value>
@@ -751,7 +751,7 @@
     <value>2 часа</value>
   </data>
   <data name="TwoMilesOptionSetting" xml:space="preserve">
-    <value>2 мили</value>
+    <value>3 километра</value>
   </data>
   <data name="UnhandledCrashDialog" xml:space="preserve">
     <value>Непредвиденная ошибка возникла во время предыдущего запуска этого приложения. Хотите отправить email чтобы сообщить о ней?</value>
@@ -782,5 +782,17 @@
   </data>
   <data name="URL" xml:space="preserve">
     <value>URL</value>
+  </data>
+  <data name="LiveTileNearbyEmpty">
+    <value>Нет задач поблизости</value>
+  </data>
+  <data name="LiveTileNearbyPlural">
+    <value>задачи поблизости</value>
+  </data>
+  <data name="LiveTileNearbySingle">
+    <value>задача поблизости</value>
+  </data>
+  <data name="EmptyNearbyTaskList">
+    <value>Нет задач поблизости. Ура!</value>
   </data>
 </root>
