@@ -4,68 +4,68 @@
        Author="Matt McCormick"
        Description=""
        Publisher="Sergey Svinarenko"
-       AdditionalNotes="This application uses the Remember The Milk application programming interface but is not endorsed or certified by Remember The Milk.\n\nSwipe right to left for legal notices." />
+       AdditionalNotes="Это приложение использует прикладной программный интерфейс Remember The Milk, но не поддерживается и не сертифицировано Remember The Milk.\n\nПроведите справа налево чтобы ознакомиться с юридической информацией." />
   <Items>
-    <MainItem Title="about"
+    <MainItem Title="о программе"
               AppAuthorLabel="by"
               AppDescriptionLabel=""
-              AppPublisherLabel="Translator:"
-              AppVersionLabel="Version:"
-              AppAdditionalNotesLabel="Additional Notes:"
-              AppReviewButtonContent="Review this app!">
+              AppPublisherLabel="Переводчик:"
+              AppVersionLabel="Версия:"
+              AppAdditionalNotesLabel="Дополнительные замечания:"
+              AppReviewButtonContent="Оставьте отзыв!">
       <Links>
         <Link NavigateUri="http://mbmccormick.com"
               Content="http://mbmccormick.com"
-              Label="Website:" />
+              Label="Веб сайт:" />
         <Link NavigateUri="mailto:milkman@mbmccormick.com"
               Content="milkman@mbmccormick.com"
-              Label="Support:" />
+              Label="Поддержка:" />
       </Links>
     </MainItem>
-    <Item Title="legal" Type="text">
-      Privacy Policy
-      Milkman is a client application designed for connecting you with the excellent Remember The Milk service. Note that by using the Remember The Milk service, you also are likely bound by their terms of service (available at https://www.rememberthemilk.com/help/terms.rtm) as well as their privacy policy (available at https://www.rememberthemilk.com/help/privacy.rtm). This policy is additive to that of the Remember The Milk privacy policy, since Milkman is only a client application.
+    <Item Title="юридическая информация" Type="text">
+      Политика безопасности
+      Milkman - это клиентское приложение разработанное для подключения к сервису Remember The Milk. Заметьте, что используя сервис Remember The Milk, вы, вероятно, также связаны их условиями использования (доступны по адресу https://www.rememberthemilk.com/help/terms.rtm), а также их политикой безопасности (доступно по адресу https://www.rememberthemilk.com/help/privacy.rtm). Данная политика действует как дополнение к политике безопасности Remember The Milk, так как Milkman только лишь клиентское приложение.
 
-      Information Collected
-      In the event of an application error, crash, or problem, we may ask you to send an email message with crash information. Such an email may contain personally identifiable information, and it is your choice whether to send such a message. While using the app, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you and help you resolve support or assistance with the app. This will happen through a prompt asking for feedback, allowing you to send an e-mail message, and is not automatic. When you chose to interact with Remember The Milk, we collect an authentication token through an authentication mechanism with the service. As part of this process, we also will then validate the credentials by requesting the profile information for the primary account, and this information may include your email address, name, and any other fields returned from the user lookup with the Remember The Milk API. Your password is never stored by the application. In order to provide you with a better experience, to improve the application and its services, we may share non-identifying information (such as the current page within the application being viewed) to serve you better and analyze and understand how the app is used. There are application preferences that may enable or turn off such functionality.
+      Собираемая информация
+      В случае программной ошибки, сбоя или проблемы, мы можем попросить Вас отправить сообщение электронной почты с деталями ошибки. Такое сообщение может содержать личную информацию, и у Вас будет выбор отправлять ли это сообщение. Мы можем попросить Вас во время использования приложения предоставить нам некоторую персональную информацию, которая может быть использована для Вашей идентификации и контакта с Вами с целью оказания поддержки и помощи по работе с приложением. Это будет сделано при помощи формы обратной связи, которая предоставит Вам возможность отправить сообщение электронной почты отправка которого не будет выполнена автоматически. Когда Вы решите взаимодействовать с Remember The Milk, мы получим токен аутентификации при помощи механизма аутентификации этого сервиса. Как часть этого процесса мы также будем выполнять валидацию учетных данных запросом информации профиля для основной учетной записи, и эта информация может включать адрес Вашей электронной почты, имя и любые другие поля которые будут возвращены функцией поиска пользователей Remember The Milk API. Ваш пароль никогда не сохраняется этим приложением. Для того чтобы сделать лучшим Ваш опыт взаимодействия с этим приложением, улучшить приложение и его службы, мы можем делиться неидентифицируемой информацией (такой как текущая просматриваемая страница внутри приложения) чтобы улучшить оказываемые услуги, анализировать и понять как используется данное приложение. Существуют настройки приложения, которые могут включать или выключать функциональнось такого рода.
 
-      Age Policy
-      Within accordance of Microsoft's Application Certification Requirements for Windows Phone, you must not create an account if you are not of the age of 13. As the Milkman application does not require an account, this clause is handled by the Remember The Milk terms of use, which designates that those younger than 13 may not use the service.
+      Возрастная политика
+      В пределах соглашения Требований по Сертификации Приложений компании Microsoft (Microsoft's Application Certification Requirements) для Windows Phone, вы не должны создавать учетную запись если Вам не исполнилось 13. Так как приложение Milkman не требует учетной записи, это требование обрабатывается соглашениями об использовании Remember The Milk, которое обозначает что лица младше 13 лет не могут использовать этот сервис.
 
-      Notes
-      Remember The Milk is a trademark of Remember The Milk. This application uses the Remember The Milk application programming interface but is not endorsed or certified by Remember The Milk.
+      Замечания
+      Remember The Milk зарегистрированная торговая марка Remember The Milk. Это приложение использует прикладной программный интерфейс Remember The Milk, но не поддерживается и не сертифицировано Remember The Milk.
 
-      Contacting the Author
-      If you have any questions about this Privacy Policy, please contact us at milkman@mbmccormick.com.
+      Контакты автора
+      Если у Вас есть любые вопросы касающиеся этой Политики безопасности, пожалуйста пишите на milkman@mbmccormick.com.
 
     </Item>
-    <Item Title="what's new?" Type="text">
-      Version 2.4
-      This release now uses HTTPS when communicating with Remember The Milk. Redesigned some of the layouts and font sizes throughout the application. This release also includes several bug fixes.
+    <Item Title="что нового?" Type="text">
+      Версия 2.4
+      Этот выпуск теперь использует HTTPS для взаимодействия с Remember The Milk. Переработаны размещения некоторых элементов интерфейса и размеры шрифтов в приложении. Эта версия также включает исправления нескольких ошибок.
 
-      Version 2.3
-      This release is completely localized and translated to Spanish and Italian. This also includes several bug fixes and an updated about dialog.
+      Версия 2.3
+      Этот выпуск полностью локализован и переведен на испанский и итальянский языки. Он также включает исправления для нескольких ошибок и обновленный диалог о программе.
 
-      Version 2.2
-      This release includes several bug fixes and stability improvements. All lists now take advantage of the date view, instead of limiting this to the All Tasks list. The live tile now includes overdue tasks in the task count. This release also includes several user interface enhancements.
+      Версия 2.2
+      Этот выпуск включает исправления для нескольких ошибок а также усовершенствования в стабильности работы. Теперь просмотр по дате может использоваться во всех списках вместо ограничения этой возможности списком всех задач. Живые плитки теперь включают просроченные задачи в количество задач. Этот выпуск также включает несколько усовершенствований в пользовательском интефейсе.
 
-      Version 2.1
-      This release includes a critical bug fix to the task reminders functionality. The Add Note page now has labels on the title and body fields. Some additional small bug fixes are included.
+      Версия 2.1
+      Этот выпуск включает исправление для критической ошибки в функциональности напоминаний о задачах. Страница добавления заметок теперь имеет ярлыки для полей редактирования заголовка и содежимого заметки. Также включено несколько дополнительных исправлений.
 
-      Version 2.0
-      This major release completely revamps the Milkman interface. You can now view tasks by date, list, or smart list. You can customize your task reminders and location notifications. You can now pin any list or smart list as a live tile on your start screen. By request, you can choose between light or dark theme. This version also has a faster, more streamlined Add Task dialog. Lastly, there are several bug fixes included.
+      Версия 2.0
+      Этот большой выпуск полностью перерабатывает интефейс Milkman. Вы теперь можете просматривать задачи по дате, спискам или по умным спискам. Вы можете настраивать напоминания о задачах и напоминания привязанные к местоположению. Теперь возможно Прикрепить любой список или умный список на Стартовый экран. По запросу, вы теперь можете выбирать между светлой или темной темами. Эта версия также включает более быстрый, луше налаженный диалог добавления задачи. И, наконец, в этот выпуск включены исправления для нескольких ошибок.
 
-      Version 1.3
-      This release includes the ability to add, edit, and delete notes for tasks. You can also now choose to manually sync your tasks instead of doing so automatically, to improve speed of the application. This also includes several bug fixes and some tweaks to the user interface.
+      Версия 1.3
+      Этот выпуск включает возможность добвлять, редактировать и удалять заметки для задач. Вы также теперь можете выбирать синхронизировать задачи вручную, вместо того чтобы это делалось автоматически для того чтобы улучшить скорось работы приложения. Он также включает исправления для нескольких ошибок и несколько небольших изменений в пользовательском интерфейсе.
 
-      Version 1.2
-      This minor release includes some small bug fixes for task reminders and some security fixes. It also includes higher-resolution icon images.
+      Версия 1.2
+      Этот второстепенный выпуск включает несколько небольших исправлений для напоминаний о задачах и несколько исправлений в безопасности. Он также включает изображения более высокого разрешения для значков.
 
-      Version 1.1
-      This release includes several bug fixes to improve reliability of location-based reminders, live tile updates, and reminder scheduling. The Edit Task page now has spell check and autocomplete functionality. When an exception occurs, users now have the option of sending a bug report with diagnostics information about the crash to the developer.
+      Версия 1.1
+      Этот выпуск включает несолько исправлений ошибок позволяющих улучшить надежность напоминаний привязанных к местоположению, обновления живых плиток, и планирования напоминаний. Страница редактирования задач теперь имеет проверку правописания и функцию автозаполнения. Теперь, при возникновении исключительной ситуации, пользователи имеют возможность отправки разработчику отчета об ошибке с информацией для диагностики сбоя.
 
-      Version 1.0
-      This is the first release of Milkman and contains the basic features provided by Remember The Milk and fully integrates with the Windows Phone 7.5 experience.
+      Версия 1.0
+      Это первый выпуск Milkman и он содержит базовые финкции предоставляемые Remember The Milk и полностью интегрируется с Windows Phone 7.5.
 
     </Item>
   </Items>
