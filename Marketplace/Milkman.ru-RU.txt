@@ -1,31 +1,29 @@
-### Application Title
+﻿### Application Title
 
 Milkman
 
 
 ### Featured Application Description
 
-Remember The Milk for WP7
+Remember The Milk для WP7
 
 
 ### Detailed Description
 
-Milkman is the fastest and cleanest way to manage your tasks on your Windows Phone. Milkman syncs with Remember The Milk, an online to-do list and task manager. You can easily view your tasks, create new reminders, and update your to-do lists right from your phone. Every change you make in Milkman is synced to your Remember The Milk account, so you'll never forget the milk (or anything else) again.
+Milkman - самый быстрый и простой способ управлять задачами на Windows Phone. Milkman синхронизируется с Remember The Milk - онлайн списком дел и менеджером задач. Вы можете легко просматривать задачи, создавать напоминания и обновлять списки Ваших дел прямо из Вашего телефона. Каждое сделанное изменение будет синхронизировано с Вашей учетной записью Remember The Milk, так что Вы больше никогда не забудете молоко (или что-либо еще).
 
-Milkman seamlessly integrates with your phone to display task counters on the application's live tile, it shows reminders before a task is due, and even allows you to set location-based reminders using Remember The Milk.
+Milkman безшовно интегрируется с Вашим телефоном для показа счетчиков задач на живых иконках приложения, также он показывает напоминания когда приходит время выполнить задачу и даже позволяет при помощи Remember The Milk устанавливать напоминания привязанные к местоположению.
 
-This application uses the Remember The Milk application programming interface but is not endorsed or certified by Remember The Milk.
+Это приложение использует прикладной программный интерфейс Remember The Milk, но не поддерживается и не сертифицировано Remember The Milk.
 
-Application Development by Matt McCormick
+Разработка приложения Matt McCormick
 
-User Interface by Libby Puccinelli
-
+Пользовательский интерфейс Libby Puccinelli
 
 ### Update Description
 
-Not provided or no data available.
-
+Не предоставлено или данные не доступны.
 
 ### Keywords
 
-remember the milk, task manager, todo list, reminder, winmilk
+remember the milk, менеджер задач, список дел, напоминание, winmilk
