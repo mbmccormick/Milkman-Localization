@@ -163,7 +163,7 @@
     <value>AÑADIR NOTA</value>
   </data>
   <data name="AddTaskDialogTitle" xml:space="preserve">
-    <value>Agregar tarea</value>
+    <value>Agregar Tarea</value>
   </data>
   <data name="AllTasks" xml:space="preserve">
     <value>Todas las Tareas</value>
@@ -651,23 +651,8 @@
   <data name="AutomaticSyncSetting" xml:space="preserve">
     <value>Sincronizar datos automáticamente</value>
   </data>
-  <data name="DisabledOptionSetting" xml:space="preserve">
-    <value>desactivado</value>
-  </data>
-  <data name="FiveMilesOptionSetting" xml:space="preserve">
-    <value>5 millas</value>
-  </data>
   <data name="LightThemeSetting" xml:space="preserve">
     <value>Utilice siempre el tema de luz</value>
-  </data>
-  <data name="LocationServiceSetting" xml:space="preserve">
-    <value>Avisarme cuando las tareas están cercanas</value>
-  </data>
-  <data name="OneHourOptionSetting" xml:space="preserve">
-    <value>1 hora</value>
-  </data>
-  <data name="OneMileOptionSetting" xml:space="preserve">
-    <value>1 milla</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Configuración</value>
@@ -680,15 +665,6 @@
   </data>
   <data name="TaskRemindersSetting" xml:space="preserve">
     <value>Notificarme antes de tareas estén debidamente</value>
-  </data>
-  <data name="ThirtyMinutesOptionSetting" xml:space="preserve">
-    <value>30 minutos</value>
-  </data>
-  <data name="TwoHoursOptionSetting" xml:space="preserve">
-    <value>2 horas</value>
-  </data>
-  <data name="TwoMilesOptionSetting" xml:space="preserve">
-    <value>2 millas</value>
   </data>
   <data name="Off" xml:space="preserve">
     <value>Apagado</value>
@@ -794,5 +770,68 @@
   </data>
   <data name="EmptyNearbyTaskList">
     <value>No tienen ninguna tarea cercana en esta lista. Fantástico!</value>
+  </data>
+  <data name="LocationRemindersSetting">
+    <value>Avisarme cuando las tareas están cercanas</value>
+  </data>
+  <data name="TaskRemindersSetting1">
+    <value>discapacitado</value>
+  </data>
+  <data name="TaskRemindersSetting2">
+    <value>30 minutos</value>
+  </data>
+  <data name="TaskRemindersSetting3">
+    <value>1 hora</value>
+  </data>
+  <data name="TaskRemindersSetting4">
+    <value>2 horas</value>
+  </data>
+  <data name="NearbyRadiusSetting">
+    <value>Cerca de radio de ubicación</value>
+  </data>
+  <data name="NearbyRadiusSetting1">
+    <value>1 milla</value>
+  </data>
+  <data name="NearbyRadiusSetting2">
+    <value>2 millas</value>
+  </data>
+  <data name="NearbyRadiusSetting3">
+    <value>5 millas</value>
+  </data>
+  <data name="NearbyRadiusSetting4">
+    <value>10 millas</value>
+  </data>
+  <data name="NearbyRadiusSetting5">
+    <value>20 millas</value>
+  </data>
+  <data name="Error">
+    <value>Error</value>
+  </data>
+  <data name="WorkingOffline">
+    <value>Milkman está trabajando sin conexión</value>
+  </data>
+  <data name="NetworkConnectionDialogTitle">
+    <value>Error al ponerse en contacto con el servidor</value>
+  </data>
+  <data name="NetworkConnectionDialog">
+    <value>Hubo un error al intentar contactar con los servidores de Remember The Milk. ¿Estás conectado a la red?</value>
+  </data>
+  <data name="OfflineConnectionDialogTitle">
+    <value>Conexión de red no disponible</value>
+  </data>
+  <data name="OfflineConnectionDialog">
+    <value>Actualmente no tiene una conexión de red activa disponible. ¿Le gustaría cambiar al modo offline para esta sesión?</value>
+  </data>
+  <data name="AddTask">
+    <value>Agregar tarea</value>
+  </data>
+  <data name="AddTaskLower">
+    <value>agregar tarea</value>
+  </data>
+  <data name="AddTaskUpper">
+    <value>AGREGAR TAREA</value>
+  </data>
+  <data name="IgnorePrioritySetting">
+    <value>Ignorar la prioridad al ordenar tareas</value>
   </data>
 </root>

@@ -651,23 +651,14 @@
   <data name="AutomaticSyncSetting" xml:space="preserve">
     <value>Sync data automatically</value>
   </data>
-  <data name="DisabledOptionSetting" xml:space="preserve">
+  <data name="TaskRemindersSetting1" xml:space="preserve">
     <value>disabled</value>
-  </data>
-  <data name="FiveMilesOptionSetting" xml:space="preserve">
-    <value>5 miles</value>
   </data>
   <data name="LightThemeSetting" xml:space="preserve">
     <value>Always use light theme</value>
   </data>
-  <data name="LocationServiceSetting" xml:space="preserve">
-    <value>Notify me when tasks are nearby</value>
-  </data>
-  <data name="OneHourOptionSetting" xml:space="preserve">
+  <data name="TaskRemindersSetting3" xml:space="preserve">
     <value>1 hour</value>
-  </data>
-  <data name="OneMileOptionSetting" xml:space="preserve">
-    <value>1 mile</value>
   </data>
   <data name="Settings" xml:space="preserve">
     <value>Settings</value>
@@ -681,14 +672,11 @@
   <data name="TaskRemindersSetting" xml:space="preserve">
     <value>Notify me before tasks are due</value>
   </data>
-  <data name="ThirtyMinutesOptionSetting" xml:space="preserve">
+  <data name="TaskRemindersSetting2" xml:space="preserve">
     <value>30 minutes</value>
   </data>
-  <data name="TwoHoursOptionSetting" xml:space="preserve">
+  <data name="TaskRemindersSetting4" xml:space="preserve">
     <value>2 hours</value>
-  </data>
-  <data name="TwoMilesOptionSetting" xml:space="preserve">
-    <value>2 miles</value>
   </data>
   <data name="Off" xml:space="preserve">
     <value>Off</value>
@@ -794,5 +782,56 @@
   </data>
   <data name="EmptyNearbyTaskList" xml:space="preserve">
     <value>There are no tasks nearby. Woohoo!</value>
+  </data>
+  <data name="LocationRemindersSetting" xml:space="preserve">
+    <value>Notify me when tasks are nearby</value>
+  </data>
+  <data name="NearbyRadiusSetting" xml:space="preserve">
+    <value>Nearby location radius</value>
+  </data>
+  <data name="NearbyRadiusSetting1" xml:space="preserve">
+    <value>1 mile</value>
+  </data>
+  <data name="NearbyRadiusSetting2" xml:space="preserve">
+    <value>2 miles</value>
+  </data>
+  <data name="NearbyRadiusSetting3" xml:space="preserve">
+    <value>5 miles</value>
+  </data>
+  <data name="NearbyRadiusSetting4" xml:space="preserve">
+    <value>10 miles</value>
+  </data>
+  <data name="NearbyRadiusSetting5" xml:space="preserve">
+    <value>20 miles</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="NetworkConnectionDialog" xml:space="preserve">
+    <value>There was an error when trying to contact the Remember The Milk servers. Are you connected to the network?</value>
+  </data>
+  <data name="NetworkConnectionDialogTitle" xml:space="preserve">
+    <value>Error Contacting Server</value>
+  </data>
+  <data name="OfflineConnectionDialog" xml:space="preserve">
+    <value>You currently do not have an active network connection available. Would you like to switch to offline mode for this session?</value>
+  </data>
+  <data name="OfflineConnectionDialogTitle" xml:space="preserve">
+    <value>Network Connection Unavailable</value>
+  </data>
+  <data name="WorkingOffline" xml:space="preserve">
+    <value>Milkman is working offline</value>
+  </data>
+  <data name="AddTask" xml:space="preserve">
+    <value>Add Task</value>
+  </data>
+  <data name="AddTaskLower" xml:space="preserve">
+    <value>add task</value>
+  </data>
+  <data name="AddTaskUpper" xml:space="preserve">
+    <value>ADD TASK</value>
+  </data>
+  <data name="IgnorePrioritySetting" xml:space="preserve">
+    <value>Ignore priority when sorting tasks</value>
   </data>
 </root>
