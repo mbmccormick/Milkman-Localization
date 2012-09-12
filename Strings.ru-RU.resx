@@ -382,22 +382,22 @@
     <value>В этом списке нет незавершеных задач. Ура!</value>
   </data>
   <data name="Estimate" xml:space="preserve">
-    <value>Продолжительность</value>
+    <value>Оценка</value>
   </data>
   <data name="FeedbackMenu" xml:space="preserve">
-    <value>Отзывы</value>
+    <value>Обратная связь</value>
   </data>
   <data name="FeedbackMenuLower" xml:space="preserve">
-    <value>отзывы</value>
+    <value>обратная связь</value>
   </data>
   <data name="FeedbackMenuUpper" xml:space="preserve">
-    <value>ОТЗЫВЫ</value>
+    <value>ОБРАТНАЯ СВЯЗЬ</value>
   </data>
   <data name="HubTileEmpty" xml:space="preserve">
     <value>Нет задач</value>
   </data>
   <data name="HubTilePlural" xml:space="preserve">
-    <value>задачи</value>
+    <value>задач(и)</value>
   </data>
   <data name="HubTileSingle" xml:space="preserve">
     <value>задача</value>
@@ -418,7 +418,7 @@
     <value>просроченные</value>
   </data>
   <data name="LiveTilePlural" xml:space="preserve">
-    <value>задачи на сегодня</value>
+    <value>задач(и) на сегодня</value>
   </data>
   <data name="LiveTileSingle" xml:space="preserve">
     <value>задача на сегдня</value>
@@ -427,7 +427,7 @@
     <value>Загрузка...</value>
   </data>
   <data name="Location" xml:space="preserve">
-    <value>Местонахождение</value>
+    <value>Место</value>
   </data>
   <data name="MarketplaceDialog" xml:space="preserve">
     <value>Прошло несколько дней с тех пор как вы загрузили Milkman. Хотите оставить отзыв в Marketplace?</value>
@@ -523,7 +523,7 @@
     <value>НА СТАРТОВЫЙ ЭКРАН</value>
   </data>
   <data name="Postponed" xml:space="preserve">
-    <value>Отложенные</value>
+    <value>Отложено</value>
   </data>
   <data name="PostponeDialog" xml:space="preserve">
     <value>Вы уверены, что хотите отложить эту задачу?</value>
@@ -619,7 +619,7 @@
     <value>НАСТРОЙКИ</value>
   </data>
   <data name="SettingsThemeDialog" xml:space="preserve">
-    <value>Ваши изменения в теме будут применены во время следующего запуска Milkman.</value>
+    <value>Ваши изменения темы будут применены во время следующего запуска Milkman.</value>
   </data>
   <data name="SettingsThemeDialogTitle" xml:space="preserve">
     <value>Настройки</value>
@@ -682,7 +682,7 @@
     <value>задача</value>
   </data>
   <data name="TaskPlural" xml:space="preserve">
-    <value>задачи</value>
+    <value>задач(и)</value>
   </data>
   <data name="TaskReminderPrefix" xml:space="preserve">
     <value>Эта задача завершается</value>
@@ -802,7 +802,7 @@
     <value>16 километров</value>
   </data>
   <data name="NearbyRadiusSetting5">
-    <value>32 километров</value>
+    <value>32 километра</value>
   </data>
   <data name="WorkingOffline">
     <value>Milkman работает в автономном режиме</value>
@@ -811,16 +811,16 @@
     <value>Ошибка</value>
   </data>
   <data name="NearbyRadiusSetting">
-    <value>Поблизости местоположение радиус</value>
+    <value>Радиус приближенности</value>
   </data>
   <data name="NetworkConnectionDialog">
     <value>Произошла ошибка при попытке связаться с серверами Remember The Milk. Подключены ли вы к сети?</value>
   </data>
   <data name="NetworkConnectionDialogTitle">
-    <value>Связаться со службой сервера Ошибка</value>
+    <value>Ошибка связи с сервером</value>
   </data>
   <data name="OfflineConnectionDialog">
-    <value>В настоящее время не имеется активное подключение к сети доступны. Вы хотели бы перейти в автономный режим для этой сессии?</value>
+    <value>В настоящее время нет активного подключения к сети. Вы бы хотели перейти в автономный режим для этой сессии?</value>
   </data>
   <data name="OfflineConnectionDialogTitle">
     <value>Сетевое подключение недоступно</value>
@@ -829,7 +829,7 @@
     <value>добавить задачу</value>
   </data>
   <data name="AddTaskUpper">
-    <value>ДОБАВИТЬ  ЗАДАЧИ</value>
+    <value>ДОБАВИТЬ  ЗАДАЧУ</value>
   </data>
   <data name="IgnorePrioritySetting">
     <value>Игнорировать приоритет при сортировке задач</value>
