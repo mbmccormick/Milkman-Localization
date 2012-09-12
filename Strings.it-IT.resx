@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -830,5 +830,8 @@
   </data>
   <data name="AddTaskUpper">
     <value>AGGIUNGI ATTIVITÀ</value>
+  </data>
+  <data name="IgnorePrioritySetting">
+    <value>Ignorare la priorità durante l'ordinamento attività</value>
   </data>
 </root>
