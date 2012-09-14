@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="¿qué novedades?" Type="text">
+      Versión 2.5
+      Esta versión introduce la lista de tareas Nearby, nuevas opciones de ordenación lista de tareas, modo offline y nuevas mejoras de la interfaz de usuario. La sincronización y la respuesta de la aplicación se ha mejorado enormemente. Ahora se admite el idioma ruso. Esta versión también incluye varias correcciones de errores.
+
       Versión 2.4
       Esta versión utiliza HTTPS ahora comunicarse con Remember The Milk. Rediseñado algunos de los diseños y tamaños de fuente en toda la aplicación. Esta versión también incluye varias correcciones de errores.
 

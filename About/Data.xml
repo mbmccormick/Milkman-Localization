@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="what's new?" Type="text">
+      Version 2.5
+      This release introduces the Nearby task list, new task list sorting options, offline mode, and new user interface enhancements. The syncing and responsiveness of the application has been greatly improved. Russian language is now supported. This release also includes several bug fixes.
+
       Version 2.4
       This release now uses HTTPS when communicating with Remember The Milk. Redesigned some of the layouts and font sizes throughout the application. This release also includes several bug fixes.
       

@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="novità?" Type="text">
+      Versione 2.5
+      Questo rilascio introduce l'elenco attività adiacenze, nuove opzioni di ordinamento elenco attività, modalità offline e nuovi miglioramenti di interfaccia utente. La sincronizzazione e la reattività dell'applicazione è stata notevolmente migliorata. Lingua russa è ora supportato. Questa release include anche diversi bug.
+
       Versione 2.4
       Questa versione ora utilizza HTTPS quando si comunica con Remember The Milk. Ridisegnato alcuni layout e dimensioni dei caratteri in tutta l'applicazione. Questa release include anche diversi bug.
 
