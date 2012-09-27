@@ -5,20 +5,19 @@ Milkman
 
 ### Featured Application Description
 
-Remember The Milk for WP7
+Remember The Milk per WP7
 
 
 ### Detailed Description
 
-Milkman è il modo più veloce e più pulito per gestire le attività sul vostro Windows Phone. Milkman sincronizza con Remember The Milk, una linea di to-do list e task manager. Si facilmente può visualizzare le attività, creare nuovi promemoria e aggiornino le proprie liste di cose da fare direttamente dal tuo cellulare. Ogni cambiamento che fai in Milkman è sincronizzato al tuo account Remember The Milk, così non non dimenticherò mai il latte (o qualsiasi altra cosa) ancora una volta.
+Milkman è il modo più veloce e più pulito per gestire le attività sul vostro Windows Phone. Milkman si sincronizza con Remember The Milk, un sistema di gestione di attività e di scadenze online. È possibile visualizzare le attività, creare notifiche ed aggiornare le proprie liste con tutta facilità, direttamente dal telefono. Ogni singola modifica fatta con Milkman viene sincronizzata con l'account Remember The Milk, in modo da non farvi mai più dimenticare il latte (e tutto il resto).
 
-Milkman si integra perfettamente con il telefono per visualizzare i contatori del compito su piastrella dal vivo dell'applicazione, mostra i ricordi prima che un'attività è dovuta e permette anche di impostare promemoria basati sulla posizione usando Remember The Milk.
+Milkman si integra perfettamente con il telefono, visualizzando i contatori delle attività su una live tile. Vengono mostrate le relative notifiche quando ci sono attività in scadenza ed è anche possibile utilizzare le notifiche basate sulla propria posizione geografica.
 
-Questa applicazione utilizza l'interfaccia Remember The Milk, ma non è approvata o certificata da Remember The Milk.
+Questa applicazione utilizza le API di Remember The Milk, ma non è approvata né certificata.
 
-Sviluppo di applicazioni da Matt McCormick
-
-Interfaccia utente di Libby Puccinelli
+Applicazione sviluppata da Matt McCormick.
+Interfaccia utente realizzata da Libby Puccinelli.
 
 
 ### Update Description
@@ -28,4 +27,4 @@ Not provided or no data available.
 
 ### Keywords
 
-remember the milk, task manager, todo list, reminder, winmilk
+remember the milk, gestione attività, da fare, todo, lista, notifica, winmilk

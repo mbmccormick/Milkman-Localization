@@ -1,110 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
-    Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
-    associated with the data types.
-    
-    Example:
-    
-    ... ado.net/XML headers & schema ...
-    <resheader name="resmimetype">text/microsoft-resx</resheader>
-    <resheader name="version">2.0</resheader>
-    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-        <value>[base64 mime encoded serialized .NET Framework object]</value>
-    </data>
-    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-        <comment>This is a comment</comment>
-    </data>
-                
-    There are any number of "resheader" rows that contain simple 
-    name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
-    mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
-    read any of the formats listed below.
-    
-    mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 encoding.
-    
-    mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-            : and then encoded with base64 encoding.
-
-    mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
-            : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -112,10 +7,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About" xml:space="preserve">
     <value>Informazioni su</value>
@@ -205,13 +100,13 @@
     <value>Sincronizza dati automaticamente</value>
   </data>
   <data name="Body" xml:space="preserve">
-    <value>Body</value>
+    <value>Contenuto</value>
   </data>
   <data name="BodyLower" xml:space="preserve">
-    <value>body</value>
+    <value>contenuto</value>
   </data>
   <data name="BodyUpper" xml:space="preserve">
-    <value>BODY</value>
+    <value>CONTENUTO</value>
   </data>
   <data name="CancelButton" xml:space="preserve">
     <value>annulla</value>
@@ -370,7 +265,7 @@
     <value>Non ci sono attività non completate in questa lista. Urrà!</value>
   </data>
   <data name="Estimate" xml:space="preserve">
-    <value>Tempo stimato</value>
+    <value>Stima</value>
   </data>
   <data name="FeedbackMenu" xml:space="preserve">
     <value>Commenti</value>
@@ -463,10 +358,10 @@
     <value>NOTE</value>
   </data>
   <data name="Off" xml:space="preserve">
-    <value>Off</value>
+    <value>Disabilitato</value>
   </data>
   <data name="On" xml:space="preserve">
-    <value>On</value>
+    <value>Abilitato</value>
   </data>
   <data name="Overdue" xml:space="preserve">
     <value>Scadute</value>
@@ -652,7 +547,7 @@
     <value>Questa attività scade il</value>
   </data>
   <data name="TaskRemindersSetting" xml:space="preserve">
-    <value>Notificare prima della scadenza delle attività</value>
+    <value>Notifica prima della scadenza delle attività</value>
   </data>
   <data name="Title" xml:space="preserve">
     <value>Titolo</value>
@@ -759,79 +654,79 @@
   <data name="TaskUpper" xml:space="preserve">
     <value>ATTIVITÀ</value>
   </data>
-  <data name="LiveTileNearbyEmpty">
-    <value>Nessuna attività nelle vicinanze</value>
+  <data name="LiveTileNearbyEmpty" xml:space="preserve">
+    <value>Nessuna attività nei pressi</value>
   </data>
-  <data name="LiveTileNearbyPlural">
-    <value>attività che nelle vicinanze</value>
+  <data name="LiveTileNearbyPlural" xml:space="preserve">
+    <value>attività nei pressi</value>
   </data>
-  <data name="LiveTileNearbySingle">
-    <value>attività che nelle vicinanze</value>
+  <data name="LiveTileNearbySingle" xml:space="preserve">
+    <value>attività nei pressi</value>
   </data>
-  <data name="EmptyNearbyTaskList">
-    <value>Non ci sono attività nelle vicinanze in questa lista. Urrà!</value>
+  <data name="EmptyNearbyTaskList" xml:space="preserve">
+    <value>Non ci sono attività nei pressi. Urrà!</value>
   </data>
-  <data name="LocationRemindersSetting">
-    <value>Notificare quando ci sono attività nei pressi</value>
+  <data name="LocationRemindersSetting" xml:space="preserve">
+    <value>Notifica quando ci sono attività nei pressi</value>
   </data>
-  <data name="TaskRemindersSetting4">
+  <data name="TaskRemindersSetting4" xml:space="preserve">
     <value>2 ore</value>
   </data>
-  <data name="TaskRemindersSetting3">
+  <data name="TaskRemindersSetting3" xml:space="preserve">
     <value>1 ora</value>
   </data>
-  <data name="TaskRemindersSetting2">
+  <data name="TaskRemindersSetting2" xml:space="preserve">
     <value>30 minuti</value>
   </data>
-  <data name="TaskRemindersSetting1">
-    <value>disabili</value>
+  <data name="TaskRemindersSetting1" xml:space="preserve">
+    <value>disabilitato</value>
   </data>
-  <data name="NearbyRadiusSetting">
-    <value>Nelle vicinanze del raggio posizione</value>
+  <data name="NearbyRadiusSetting" xml:space="preserve">
+    <value>Raggio di vicinanza</value>
   </data>
-  <data name="NearbyRadiusSetting1">
+  <data name="NearbyRadiusSetting1" xml:space="preserve">
     <value>1 miglio</value>
   </data>
-  <data name="NearbyRadiusSetting2">
-    <value>2 miglio</value>
+  <data name="NearbyRadiusSetting2" xml:space="preserve">
+    <value>2 miglia</value>
   </data>
-  <data name="NearbyRadiusSetting3">
-    <value>5 miglio</value>
+  <data name="NearbyRadiusSetting3" xml:space="preserve">
+    <value>5 miglia</value>
   </data>
-  <data name="NearbyRadiusSetting4">
-    <value>10 miglio</value>
+  <data name="NearbyRadiusSetting4" xml:space="preserve">
+    <value>10 miglia</value>
   </data>
-  <data name="NearbyRadiusSetting5">
-    <value>20 miglio</value>
+  <data name="NearbyRadiusSetting5" xml:space="preserve">
+    <value>20 miglia</value>
   </data>
-  <data name="Error">
+  <data name="Error" xml:space="preserve">
     <value>Errore</value>
   </data>
-  <data name="WorkingOffline">
-    <value>Milkman si lavora in modalità offline</value>
+  <data name="WorkingOffline" xml:space="preserve">
+    <value>Milkman sta lavorando in modalità offline</value>
   </data>
-  <data name="NetworkConnectionDialogTitle">
-    <value>Contattare Server Error</value>
+  <data name="NetworkConnectionDialogTitle" xml:space="preserve">
+    <value>Errore di connessione</value>
   </data>
-  <data name="NetworkConnectionDialog">
-    <value>C'era un errore quando si tenta di contattare i server Remember The Milk. Sono connesso alla rete?</value>
+  <data name="NetworkConnectionDialog" xml:space="preserve">
+    <value>Si è verificato un errore nel contattare i server di Remember The Milk. Si è connessi alla rete?</value>
   </data>
-  <data name="OfflineConnectionDialogTitle">
+  <data name="OfflineConnectionDialogTitle" xml:space="preserve">
     <value>Connessione di rete non disponibile</value>
   </data>
-  <data name="OfflineConnectionDialog">
+  <data name="OfflineConnectionDialog" xml:space="preserve">
     <value>Attualmente non hai una connessione di rete attiva disponibile. Ti piacerebbe passare alla modalità non in linea per questa sessione?</value>
   </data>
-  <data name="AddTask">
+  <data name="AddTask" xml:space="preserve">
     <value>Aggiungi attività</value>
   </data>
-  <data name="AddTaskLower">
+  <data name="AddTaskLower" xml:space="preserve">
     <value>aggiungi attività</value>
   </data>
-  <data name="AddTaskUpper">
+  <data name="AddTaskUpper" xml:space="preserve">
     <value>AGGIUNGI ATTIVITÀ</value>
   </data>
-  <data name="IgnorePrioritySetting">
-    <value>Ignorare la priorità durante l'ordinamento attività</value>
+  <data name="IgnorePrioritySetting" xml:space="preserve">
+    <value>Ignorare priorità per l'ordinamento delle attività</value>
   </data>
 </root>
