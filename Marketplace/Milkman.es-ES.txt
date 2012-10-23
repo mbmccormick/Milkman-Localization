@@ -5,7 +5,7 @@ Milkman
 
 ### Featured Application Description
 
-Remember The Milk for WP7
+Remember The Milk por WP7
 
 
 ### Detailed Description

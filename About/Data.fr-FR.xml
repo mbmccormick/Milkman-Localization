@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<About>
+  <App Title="Milkman"
+       Author="Matt McCormick"
+       Description=""
+       Publisher="Matt McCormick"
+       AdditionalNotes="Cette application utilise l'interface de programmation d'application Remember The Milk mais n'est pas approuvée ou certifiée par Remember The Milk.\n\nGlisser de droite à gauche pour les mentions légales." />
+  <Items>
+    <MainItem Title="à propos"
+              AppAuthorLabel="par"
+              AppDescriptionLabel=""
+              AppPublisherLabel="Traducteur:"
+              AppVersionLabel="Version:"
+              AppAdditionalNotesLabel="Notes supplémentaires"
+              AppReviewButtonContent="Réviser ce app!">
+      <Links>
+        <Link NavigateUri="http://mbmccormick.com"
+              Content="http://mbmccormick.com"
+              Label="Site Web:" />
+        <Link NavigateUri="mailto:milkman@mbmccormick.com"
+              Content="milkman@mbmccormick.com"
+              Label="Appui:" />
+      </Links>
+    </MainItem>
+    <Item Title="juridique" Type="text">
+      Politique de confidentialité
+      Milkman est une application client conçue pour vous connecter avec l'excellent service de Remember The Milk. Notez qu'en utilisant le service de Remember The Milk, vous êtes aussi probablement lié par les conditions de service (disponible à https://www.rememberthemilk.com/help/terms.rtm) ainsi que leur politique de confidentialité (disponible sur https://www.rememberthemilk.com/help/privacy.rtm). Cette politique est additif à celui de la politique de confidentialité de Remember The Milk, Milkman étant uniquement une application cliente.
+
+      Information recueillie
+      Dans le cas d'une erreur d'application, accident ou problème, nous pouvons demander de vous envoyer un email avec les informations d'incident. Un tel courriel peut contenir des informations personnelles identifiables, et c'est votre choix, s'il faut envoyer un tel message. Lors de l'utilisation de l'app, nous pouvons demander à vous de nous fournir certaines informations personnelles identifiables qui peuvent servir à contacter ou vous identifier et vous aider à résoudre la prise en charge ou l'aide avec l'application. Cela passera par une invite demandant pour vos commentaires, vous permettant d'envoyer un message électronique et n'est pas automatique. Lorsque vous avez choisi interagir avec Remember The Milk, nous recueillons un jeton d'authentification via un mécanisme d'authentification auprès du service. Dans le cadre de ce processus, nous avons également puis valide les informations d'identification en demandant les informations de profil pour le compte principal, et ces informations peuvent inclure votre adresse courriel, nom et tout autres champs renvoyés par la recherche de l'utilisateur Remember The Milk API. Votre mot de passe n'est jamais stockée par l'application. Afin de vous fournir une meilleure expérience, afin d'améliorer l'application et ses services, nous pouvons partager des renseignements non identificatoires (par exemple la page active dans l'application en cours de visualisation) pour mieux vous servir et d'analyser et de comprendre comment l'application est utilisée. Il y a des préférences d'application qui peuvent activer ou désactiver cette fonctionnalité.
+
+      Politique de l'âge
+      Au sein de conformité de Application Certification exigences pour Windows Phone Microsoft, vous devez créer un compte pas si vous n'êtes pas de l'âge de 13 ans. Comme l'application de Milkman ne nécessite pas un compte, cette clause est gérée par les conditions d'utilisation, qui indique que ceux de moins de 13 ne peut pas utiliser le service Remember The Milk.
+
+      Notes
+      Remember The Milk est une marque déposée de Remember The Milk. Cette application utilise l'interface de programmation d'application Remember The Milk mais n'est pas approuvée ou certifiée par Remember The Milk.
+
+      Contacter l'auteur
+      Si vous avez des questions concernant cette politique de confidentialité, veuillez envoyer un courriel à milkman@mbmccormick.com.
+
+    </Item>
+    <Item Title="dernière mise à jour?" Type="text">
+      Version 2.5
+      Cette version présente la liste des tâches, des options de tri de liste des tâches, en mode hors connexion et nouvelles améliorations de l'interface utilisateur proche. La synchronisation et la réactivité de l'application a été grandement améliorée. Langue russe est désormais pris en charge. Cette version inclut également plusieurs corrections de bugs.
+
+      Version 2.4
+      Cette version utilise maintenant HTTPS lorsqu'il communique avec Remember The Milk. Redessiné certaines mises en page et les tailles de police dans toute l'application. Cette version inclut également plusieurs corrections de bugs.
+
+      Version 2.3
+      Cette version est entièrement localisée et traduite en espagnol et en italien. Cela inclut également plusieurs corrections de bugs et une mise à jour au sujet de la boîte de dialogue.
+
+      Version 2.2
+      Cette version inclut plusieurs corrections de bugs et amélioration de la stabilité. Toutes les listes maintenant tirer profit de l'affichage de la date, au lieu de limiter cela à la liste de toutes les tâches. La tuile direct inclut désormais les tâches en retard dans le décompte de la tâche. Cette version inclut également plusieurs améliorations de l'interface utilisateur.
+
+      Version 2.1
+      Cette version inclut un correctif critique pour la fonctionnalité de rappels de tâche. La page Ajouter Note a maintenant des étiquettes sur les champs title et body. Quelques petites corrections de bugs supplémentaires sont incluses.
+
+      Version 2.0
+      Cette version majeure réorganise complètement l'interface Milkman. Vous pouvez désormais afficher les tâches par date, liste ou liste intelligente. Vous pouvez personnaliser vos rappels de tâches et notifications d'emplacement. Vous pouvez maintenant verrouiller toute liste ou la smart list comme une tuile direct sur votre écran de démarrage. Sur demande, vous pouvez choisir entre thème clair ou foncé. Cette version dispose également d'une boîte de dialogue Ajouter une tâche plus rapide, plus simple. Enfin, il ya plusieurs corrections de bugs incluses.
+
+      Version 1.3
+      Cette version inclut la possibilité d'ajouter, modifier et supprimer des notes pour les tâches. Vous pouvez désormais synchroniser manuellement vos tâches au lieu de le faire automatiquement, pour améliorer la vitesse de l'application. Cela inclut également plusieurs corrections de bugs et quelques réglages à l'interface utilisateur.
+
+      Version 1.2
+      Cette version mineure comprend quelques petits bugs rappels des tâches et des correctifs de sécurité. Il comprend également des images d'icônes de haute résolution.
+
+      Version 1.1
+      Cette version inclut plusieurs corrections de bugs pour améliorer la fiabilité des rappels basés sur la localisation, mises à jour live tile et ordonnancement de rappel. La page Edit Task a maintenant spell check et autocomplete fonctionnalité. Lorsqu'une exception se produit, les utilisateurs ont désormais la possibilité d'envoyer un rapport de bogue avec les informations de diagnostic sur le crash au développeur.
+
+      Version 1.0
+      C'est la première version du Milkman et contient les fonctionnalités de base fournies par Remember The Milk et s'intègre parfaitement avec l'expérience de Windows Phone 7.5.
+
+    </Item>
+  </Items>
+</About>

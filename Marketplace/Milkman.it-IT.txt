@@ -1,4 +1,4 @@
-### Application Title
+﻿### Application Title
 
 Milkman
 
@@ -16,8 +16,9 @@ Milkman si integra perfettamente con il telefono, visualizzando i contatori dell
 
 Questa applicazione utilizza le API di Remember The Milk, ma non è approvata né certificata.
 
-Applicazione sviluppata da Matt McCormick.
-Interfaccia utente realizzata da Libby Puccinelli.
+Applicazione sviluppata da Matt McCormick
+
+Interfaccia utente realizzata da Libby Puccinelli
 
 
 ### Update Description
