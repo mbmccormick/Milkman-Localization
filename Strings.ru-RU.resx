@@ -405,9 +405,6 @@
   <data name="JustAMoment" xml:space="preserve">
     <value>Один момент...</value>
   </data>
-  <data name="LightThemeSetting" xml:space="preserve">
-    <value>Всегда использовать светлую тему</value>
-  </data>
   <data name="List" xml:space="preserve">
     <value>Список</value>
   </data>
@@ -617,12 +614,6 @@
   </data>
   <data name="SettingsMenuUpper" xml:space="preserve">
     <value>НАСТРОЙКИ</value>
-  </data>
-  <data name="SettingsThemeDialog" xml:space="preserve">
-    <value>Ваши изменения темы будут применены во время следующего запуска Milkman.</value>
-  </data>
-  <data name="SettingsThemeDialogTitle" xml:space="preserve">
-    <value>Настройки</value>
   </data>
   <data name="SettingsUpper" xml:space="preserve">
     <value>НАСТРОЙКИ</value>

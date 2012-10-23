@@ -651,9 +651,6 @@
   <data name="AutomaticSyncSetting" xml:space="preserve">
     <value>Sincronizar datos automáticamente</value>
   </data>
-  <data name="LightThemeSetting" xml:space="preserve">
-    <value>Utilice siempre el tema de luz</value>
-  </data>
   <data name="Settings" xml:space="preserve">
     <value>Configuración</value>
   </data>
@@ -677,12 +674,6 @@
   </data>
   <data name="SettingsErrorDialogTitle" xml:space="preserve">
     <value>Error</value>
-  </data>
-  <data name="SettingsThemeDialog" xml:space="preserve">
-    <value>Los cambios realizados en el tema surtirán efecto la próxima vez que inicie a Milkman.</value>
-  </data>
-  <data name="SettingsThemeDialogTitle" xml:space="preserve">
-    <value>Configuración</value>
   </data>
   <data name="Due" xml:space="preserve">
     <value>Límite</value>

@@ -288,9 +288,6 @@
   <data name="JustAMoment" xml:space="preserve">
     <value>Un attimo…</value>
   </data>
-  <data name="LightThemeSetting" xml:space="preserve">
-    <value>Utilizzare sempre il tema chiaro</value>
-  </data>
   <data name="List" xml:space="preserve">
     <value>Lista</value>
   </data>
@@ -485,12 +482,6 @@
   </data>
   <data name="SettingsMenuUpper" xml:space="preserve">
     <value>IMPOSTAZIONI</value>
-  </data>
-  <data name="SettingsThemeDialog" xml:space="preserve">
-    <value>Le modifiche al tema avranno effetto al prossimo riavvio di Milkman.</value>
-  </data>
-  <data name="SettingsThemeDialogTitle" xml:space="preserve">
-    <value>Impostazioni</value>
   </data>
   <data name="SettingsUpper" xml:space="preserve">
     <value>IMPOSTAZIONI</value>

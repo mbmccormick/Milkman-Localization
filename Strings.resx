@@ -654,9 +654,6 @@
   <data name="TaskRemindersSetting1" xml:space="preserve">
     <value>disabled</value>
   </data>
-  <data name="LightThemeSetting" xml:space="preserve">
-    <value>Always use light theme</value>
-  </data>
   <data name="TaskRemindersSetting3" xml:space="preserve">
     <value>1 hour</value>
   </data>
@@ -689,12 +686,6 @@
   </data>
   <data name="SettingsErrorDialogTitle" xml:space="preserve">
     <value>Error</value>
-  </data>
-  <data name="SettingsThemeDialog" xml:space="preserve">
-    <value>Your changes to the theme will take effect the next time you launch Milkman.</value>
-  </data>
-  <data name="SettingsThemeDialogTitle" xml:space="preserve">
-    <value>Settings</value>
   </data>
   <data name="Due" xml:space="preserve">
     <value>Due</value>

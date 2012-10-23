@@ -121,13 +121,13 @@
     <value>Über</value>
   </data>
   <data name="AboutLower" xml:space="preserve">
-    <value>Über</value>
+    <value>über</value>
   </data>
   <data name="AboutMenu" xml:space="preserve">
     <value>Über Milkman</value>
   </data>
   <data name="AboutMenuLower" xml:space="preserve">
-    <value>Über Milkman</value>
+    <value>über Milkman</value>
   </data>
   <data name="AboutMenuUpper" xml:space="preserve">
     <value>ÜBER MILKMAN</value>
@@ -136,7 +136,7 @@
     <value>ÜBER</value>
   </data>
   <data name="AddButton" xml:space="preserve">
-    <value>Hinzufügen</value>
+    <value>hinzufügen</value>
   </data>
   <data name="AddingNote" xml:space="preserve">
     <value>Notiz anfügen…</value>
@@ -148,7 +148,7 @@
     <value>Hinzufügen</value>
   </data>
   <data name="AddMenuLower" xml:space="preserve">
-    <value>Hinzufügen</value>
+    <value>hinzufügen</value>
   </data>
   <data name="AddMenuUpper" xml:space="preserve">
     <value>Hinzufügen</value>
@@ -157,7 +157,7 @@
     <value>Notiz anfügen</value>
   </data>
   <data name="AddNoteLower" xml:space="preserve">
-    <value>Notiz anfügen</value>
+    <value>notiz anfügen</value>
   </data>
   <data name="AddNoteUpper" xml:space="preserve">
     <value>NOTIZ ANFÜGEN</value>
@@ -169,7 +169,7 @@
     <value>Aufgabe hinzufügen</value>
   </data>
   <data name="AddTaskLower" xml:space="preserve">
-    <value>Aufgabe hinzufügen</value>
+    <value>aufgabe hinzufügen</value>
   </data>
   <data name="AddTaskUpper" xml:space="preserve">
     <value>AUFGABE HINZUFÜGEN</value>
@@ -178,13 +178,13 @@
     <value>Alle</value>
   </data>
   <data name="AllLower" xml:space="preserve">
-    <value>Alle</value>
+    <value>alle</value>
   </data>
   <data name="AllTasks" xml:space="preserve">
     <value>Alle Aufgaben</value>
   </data>
   <data name="AllTasksLower" xml:space="preserve">
-    <value>Alle Aufgaben</value>
+    <value>alle aufgaben</value>
   </data>
   <data name="AllTasksUpper" xml:space="preserve">
     <value>ALLE AUFGABEN</value>
@@ -202,7 +202,7 @@
     <value>Autorisation</value>
   </data>
   <data name="AuthorizationLower" xml:space="preserve">
-    <value>Autorisation</value>
+    <value>autorisation</value>
   </data>
   <data name="AuthorizationUpper" xml:space="preserve">
     <value>AUTORISATION</value>
@@ -217,19 +217,19 @@
     <value>Inhalt</value>
   </data>
   <data name="BodyLower" xml:space="preserve">
-    <value>Inhalt</value>
+    <value>inhalt</value>
   </data>
   <data name="BodyUpper" xml:space="preserve">
     <value>INHALT</value>
   </data>
   <data name="CancelButton" xml:space="preserve">
-    <value>Abbrechen</value>
+    <value>abbrechen</value>
   </data>
   <data name="CancelMenu" xml:space="preserve">
     <value>Abbrechen</value>
   </data>
   <data name="CancelMenuLower" xml:space="preserve">
-    <value>Abbrechen</value>
+    <value>abbrechen</value>
   </data>
   <data name="CancelMenuUpper" xml:space="preserve">
     <value>ABBRECHEN</value>
@@ -244,7 +244,7 @@
     <value>Erledigt</value>
   </data>
   <data name="CompleteMenuLower" xml:space="preserve">
-    <value>Erledigt</value>
+    <value>erledigt</value>
   </data>
   <data name="CompleteMenuUpper" xml:space="preserve">
     <value>ERLEDIGT</value>
@@ -262,13 +262,13 @@
     <value>Startseite</value>
   </data>
   <data name="DashboardLower" xml:space="preserve">
-    <value>Startseite</value>
+    <value>startseite</value>
   </data>
   <data name="DashboardMenu" xml:space="preserve">
     <value>Startseite</value>
   </data>
   <data name="DashboardMenuLower" xml:space="preserve">
-    <value>Startseite</value>
+    <value>startseite</value>
   </data>
   <data name="DashboardMenuUpper" xml:space="preserve">
     <value>STARTSEITE</value>
@@ -280,13 +280,13 @@
     <value>Datum</value>
   </data>
   <data name="DateLower" xml:space="preserve">
-    <value>Datum</value>
+    <value>datum</value>
   </data>
   <data name="DateTime" xml:space="preserve">
     <value>Datum &amp; Uhrzeit</value>
   </data>
   <data name="DateTimeLower" xml:space="preserve">
-    <value>Datum &amp; Uhrzeit</value>
+    <value>datum &amp; uhrzeit</value>
   </data>
   <data name="DateTimeUpper" xml:space="preserve">
     <value>DATUM &amp; UHRZEIT</value>
@@ -298,7 +298,7 @@
     <value>Löschen</value>
   </data>
   <data name="DeleteMenuLower" xml:space="preserve">
-    <value>Löschen</value>
+    <value>löschen</value>
   </data>
   <data name="DeleteMenuUpper" xml:space="preserve">
     <value>LÖSCHEN</value>
@@ -331,7 +331,7 @@
     <value>Details</value>
   </data>
   <data name="DetailsLower" xml:space="preserve">
-    <value>Details</value>
+    <value>details</value>
   </data>
   <data name="DetailsUpper" xml:space="preserve">
     <value>DETAILS</value>
@@ -340,7 +340,7 @@
     <value>Spenden</value>
   </data>
   <data name="DonateMenuLower" xml:space="preserve">
-    <value>Spenden</value>
+    <value>spenden</value>
   </data>
   <data name="DonateMenuUpper" xml:space="preserve">
     <value>SPENDEN</value>
@@ -358,7 +358,7 @@
     <value>Bearbeiten</value>
   </data>
   <data name="EditMenuLower" xml:space="preserve">
-    <value>Bearbeiten</value>
+    <value>bearbeiten</value>
   </data>
   <data name="EditMenuUpper" xml:space="preserve">
     <value>BEARBEITEN</value>
@@ -367,7 +367,7 @@
     <value>Notiz bearbeiten</value>
   </data>
   <data name="EditNoteLower" xml:space="preserve">
-    <value>Notiz bearbeiten</value>
+    <value>notiz bearbeiten</value>
   </data>
   <data name="EditNoteUpper" xml:space="preserve">
     <value>NOTIZ BEARBEITEN</value>
@@ -376,7 +376,7 @@
     <value>Aufgabe bearbeiten</value>
   </data>
   <data name="EditTaskLower" xml:space="preserve">
-    <value>Aufgabe bearbeiten</value>
+    <value>aufgabe bearbeiten</value>
   </data>
   <data name="EditTaskUpper" xml:space="preserve">
     <value>AUFGABE BEARBEITEN</value>
@@ -403,7 +403,7 @@
     <value>Feedback</value>
   </data>
   <data name="FeedbackMenuLower" xml:space="preserve">
-    <value>Feedback</value>
+    <value>feedback</value>
   </data>
   <data name="FeedbackMenuUpper" xml:space="preserve">
     <value>FEEDBACK</value>
@@ -412,19 +412,16 @@
     <value>Keine Aufgaben</value>
   </data>
   <data name="HubTilePlural" xml:space="preserve">
-    <value>Aufgaben</value>
+    <value>aufgaben</value>
   </data>
   <data name="HubTileSingle" xml:space="preserve">
-    <value>Aufgabe</value>
+    <value>aufgabe</value>
   </data>
   <data name="IgnorePrioritySetting" xml:space="preserve">
     <value>Ignoriere Priorität beim Sortieren der Aufgaben</value>
   </data>
   <data name="JustAMoment" xml:space="preserve">
     <value>Einen kleinen Moment…</value>
-  </data>
-  <data name="LightThemeSetting" xml:space="preserve">
-    <value>Immer helles Theme verwenden</value>
   </data>
   <data name="List" xml:space="preserve">
     <value>Liste</value>
@@ -436,19 +433,19 @@
     <value>Keine Aufgaben in der Nähe</value>
   </data>
   <data name="LiveTileNearbyPlural" xml:space="preserve">
-    <value>Aufgaben in der Nähe</value>
+    <value>aufgaben in der nähe</value>
   </data>
   <data name="LiveTileNearbySingle" xml:space="preserve">
-    <value>Aufgabe in der Nähe</value>
+    <value>aufgabe in der nähe</value>
   </data>
   <data name="LiveTileOverdue" xml:space="preserve">
-    <value>Überfällig</value>
+    <value>überfällig</value>
   </data>
   <data name="LiveTilePlural" xml:space="preserve">
-    <value>Heute fällige Aufgaben</value>
+    <value>heute fällige aufgaben</value>
   </data>
   <data name="LiveTileSingle" xml:space="preserve">
-    <value>Heute fällige Aufgabe</value>
+    <value>heute fällige aufgabe</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Lade…</value>
@@ -469,7 +466,7 @@
     <value>Milkman</value>
   </data>
   <data name="MilkmanLower" xml:space="preserve">
-    <value>Milkman</value>
+    <value>milkman</value>
   </data>
   <data name="MilkmanUpper" xml:space="preserve">
     <value>MILKMAN</value>
@@ -481,7 +478,7 @@
     <value>In der Nähe</value>
   </data>
   <data name="NearbyLower" xml:space="preserve">
-    <value>In der Nähe</value>
+    <value>in der nähe</value>
   </data>
   <data name="NearbyRadiusSetting" xml:space="preserve">
     <value>Im Umkreis von</value>
@@ -514,7 +511,7 @@
     <value>Niemals</value>
   </data>
   <data name="NeverLower" xml:space="preserve">
-    <value>Niemals</value>
+    <value>niemals</value>
   </data>
   <data name="NeverUpper" xml:space="preserve">
     <value>NIEMALS</value>
@@ -526,7 +523,7 @@
     <value>Keine</value>
   </data>
   <data name="NoneLower" xml:space="preserve">
-    <value>Keine</value>
+    <value>keine</value>
   </data>
   <data name="NoneUpper" xml:space="preserve">
     <value>KEINE</value>
@@ -538,7 +535,7 @@
     <value>Notizen</value>
   </data>
   <data name="NotesLower" xml:space="preserve">
-    <value>Notizen</value>
+    <value>notizen</value>
   </data>
   <data name="NotesUpper" xml:space="preserve">
     <value>NOTIZEN</value>
@@ -559,7 +556,7 @@
     <value>Überfällig</value>
   </data>
   <data name="OverdueLower" xml:space="preserve">
-    <value>Überfällig</value>
+    <value>überfällig</value>
   </data>
   <data name="OverdueUpper" xml:space="preserve">
     <value>ÜBERFÄLLIG</value>
@@ -577,7 +574,7 @@
     <value>Auf Startseite hinzufügen</value>
   </data>
   <data name="PinToStartLower" xml:space="preserve">
-    <value>Auf Startseite hinzufügen</value>
+    <value>auf startseite hinzufügen</value>
   </data>
   <data name="PinToStartUpper" xml:space="preserve">
     <value>AUF STARTSEITE HINZUFÜGEN</value>
@@ -595,7 +592,7 @@
     <value>Aufschieben</value>
   </data>
   <data name="PostponeMenuLower" xml:space="preserve">
-    <value>Aufschieben</value>
+    <value>aufschieben</value>
   </data>
   <data name="PostponeMenuUpper" xml:space="preserve">
     <value>AUFSCHIEBEN</value>
@@ -616,7 +613,7 @@
     <value>Registrieren</value>
   </data>
   <data name="RegisterLower" xml:space="preserve">
-    <value>Registrieren</value>
+    <value>registrieren</value>
   </data>
   <data name="RegisterUpper" xml:space="preserve">
     <value>REGISTRIEREN</value>
@@ -628,7 +625,7 @@
     <value>Erneut versuchen</value>
   </data>
   <data name="RetryMenuLower" xml:space="preserve">
-    <value>Erneut versuchen</value>
+    <value>erneut versuchen</value>
   </data>
   <data name="RetryMenuUpper" xml:space="preserve">
     <value>ERNEUT VERSUCHEN</value>
@@ -637,7 +634,7 @@
     <value>Speichern</value>
   </data>
   <data name="SaveMenuLower" xml:space="preserve">
-    <value>Speichern</value>
+    <value>speichern</value>
   </data>
   <data name="SaveMenuUpper" xml:space="preserve">
     <value>SPEICHERN</value>
@@ -652,7 +649,7 @@
     <value>Auswählen</value>
   </data>
   <data name="SelectMenuLower" xml:space="preserve">
-    <value>Auswählen</value>
+    <value>auswählen</value>
   </data>
   <data name="SelectMenuUpper" xml:space="preserve">
     <value>AUSWÄHLEN</value>
@@ -673,16 +670,10 @@
     <value>Einstellungen</value>
   </data>
   <data name="SettingsMenuLower" xml:space="preserve">
-    <value>Einstellungen</value>
+    <value>einstellungen</value>
   </data>
   <data name="SettingsMenuUpper" xml:space="preserve">
     <value>EINSTELLUNGEN</value>
-  </data>
-  <data name="SettingsThemeDialog" xml:space="preserve">
-    <value>Die Theme-Einstellungen werden beim nächsten Start vom Milkman angewendet.</value>
-  </data>
-  <data name="SettingsThemeDialogTitle" xml:space="preserve">
-    <value>Einstellungen</value>
   </data>
   <data name="SettingsUpper" xml:space="preserve">
     <value>EINSTELLUNGEN</value>
@@ -691,7 +682,7 @@
     <value>Einloggen</value>
   </data>
   <data name="SignInLower" xml:space="preserve">
-    <value>Einloggen</value>
+    <value>einloggen</value>
   </data>
   <data name="SignInUpper" xml:space="preserve">
     <value>EINLOGGEN</value>
@@ -706,7 +697,7 @@
     <value>Ausloggen</value>
   </data>
   <data name="SignOutMenuLower" xml:space="preserve">
-    <value>Ausloggen</value>
+    <value>ausloggen</value>
   </data>
   <data name="SignOutMenuUpper" xml:space="preserve">
     <value>AUSLOGGEN</value>
@@ -718,7 +709,7 @@
     <value>Synchronisieren</value>
   </data>
   <data name="SyncMenuLower" xml:space="preserve">
-    <value>Synchronisieren</value>
+    <value>synchronisieren</value>
   </data>
   <data name="SyncMenuUpper" xml:space="preserve">
     <value>SYNCHRONISIEREN</value>
@@ -733,16 +724,16 @@
     <value>Aufgabendetails</value>
   </data>
   <data name="TaskDetailsLower" xml:space="preserve">
-    <value>Aufgabendetails</value>
+    <value>aufgabendetails</value>
   </data>
   <data name="TaskDetailsUpper" xml:space="preserve">
     <value>AUFGABENDETAILS</value>
   </data>
   <data name="TaskLower" xml:space="preserve">
-    <value>Aufgabe</value>
+    <value>aufgabe</value>
   </data>
   <data name="TaskPlural" xml:space="preserve">
-    <value>Aufgaben</value>
+    <value>aufgaben</value>
   </data>
   <data name="TaskReminderPrefix" xml:space="preserve">
     <value>Diese Aufgabe ist fällig</value>
@@ -751,7 +742,7 @@
     <value>Erinnere mich bevor diese Aufgabe fällig ist</value>
   </data>
   <data name="TaskRemindersSetting1" xml:space="preserve">
-    <value>Ausgeschaltet</value>
+    <value>ausgeschaltet</value>
   </data>
   <data name="TaskRemindersSetting2" xml:space="preserve">
     <value>30 Minuten</value>
@@ -763,7 +754,7 @@
     <value>2 Stunden</value>
   </data>
   <data name="TaskSingle" xml:space="preserve">
-    <value>Aufgabe</value>
+    <value>aufgabe</value>
   </data>
   <data name="TaskUpper" xml:space="preserve">
     <value>AUFGABE</value>
@@ -778,7 +769,7 @@
     <value>Beschreibung</value>
   </data>
   <data name="TitleLower" xml:space="preserve">
-    <value>Beschreibung</value>
+    <value>beschreibung</value>
   </data>
   <data name="TitleUpper" xml:space="preserve">
     <value>BESCHREIBUNG</value>
@@ -787,7 +778,7 @@
     <value>Heute</value>
   </data>
   <data name="TodayLower" xml:space="preserve">
-    <value>Heute</value>
+    <value>heute</value>
   </data>
   <data name="TodayUpper" xml:space="preserve">
     <value>HEUTE</value>
@@ -796,7 +787,7 @@
     <value>Morgen</value>
   </data>
   <data name="TomorrowLower" xml:space="preserve">
-    <value>Morgen</value>
+    <value>morgen</value>
   </data>
   <data name="TomorrowUpper" xml:space="preserve">
     <value>MORGEN</value>
@@ -817,7 +808,7 @@
     <value>Woche</value>
   </data>
   <data name="WeekLower" xml:space="preserve">
-    <value>Woche</value>
+    <value>woche</value>
   </data>
   <data name="WeekUpper" xml:space="preserve">
     <value>WOCHE</value>
@@ -826,7 +817,7 @@
     <value>Willkommen</value>
   </data>
   <data name="WelcomeLower" xml:space="preserve">
-    <value>Willkommen</value>
+    <value>willkommen</value>
   </data>
   <data name="WelcomeUpper" xml:space="preserve">
     <value>WILLKOMMEN</value>
