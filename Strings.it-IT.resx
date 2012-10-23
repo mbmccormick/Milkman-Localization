@@ -685,16 +685,16 @@
     <value>Raggio di vicinanza</value>
   </data>
   <data name="NearbyRadiusSetting1" xml:space="preserve">
-    <value>1 miglio</value>
+    <value>1.5 chilometri</value>
   </data>
   <data name="NearbyRadiusSetting2" xml:space="preserve">
-    <value>2 miglia</value>
+    <value>3 chilometri</value>
   </data>
   <data name="NearbyRadiusSetting3" xml:space="preserve">
-    <value>5 miglia</value>
+    <value>8 chilometri</value>
   </data>
   <data name="NearbyRadiusSetting4" xml:space="preserve">
-    <value>10 miglia</value>
+    <value>16 chilometri</value>
   </data>
   <data name="NearbyRadiusSetting5" xml:space="preserve">
     <value>20 miglia</value>

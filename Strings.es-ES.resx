@@ -790,19 +790,19 @@
     <value>Cerca de radio de ubicación</value>
   </data>
   <data name="NearbyRadiusSetting1">
-    <value>1 milla</value>
+    <value>1,5 kilometros</value>
   </data>
   <data name="NearbyRadiusSetting2">
-    <value>2 millas</value>
+    <value>3 kilometros</value>
   </data>
   <data name="NearbyRadiusSetting3">
-    <value>5 millas</value>
+    <value>8 kilometros</value>
   </data>
   <data name="NearbyRadiusSetting4">
-    <value>10 millas</value>
+    <value>16 kilometros</value>
   </data>
   <data name="NearbyRadiusSetting5">
-    <value>20 millas</value>
+    <value>32 kilometros</value>
   </data>
   <data name="Error">
     <value>Error</value>

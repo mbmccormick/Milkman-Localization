@@ -790,19 +790,19 @@
     <value>Standort in der Nähe Radius</value>
   </data>
   <data name="NearbyRadiusSetting1" xml:space="preserve">
-    <value>1 Meile</value>
+    <value>1,5 kilometer</value>
   </data>
   <data name="NearbyRadiusSetting2" xml:space="preserve">
-    <value>2 Meilen</value>
+    <value>3 kilometer</value>
   </data>
   <data name="NearbyRadiusSetting3" xml:space="preserve">
-    <value>5 Meilen</value>
+    <value>8 kilometer</value>
   </data>
   <data name="NearbyRadiusSetting4" xml:space="preserve">
-    <value>10 Meilen</value>
+    <value>16 kilometer</value>
   </data>
   <data name="NearbyRadiusSetting5" xml:space="preserve">
-    <value>20 Meilen</value>
+    <value>32 kilometer</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Fehler</value>

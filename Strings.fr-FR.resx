@@ -790,19 +790,19 @@
     <value>Rayon de proximité</value>
   </data>
   <data name="NearbyRadiusSetting1" xml:space="preserve">
-    <value>1 mile</value>
+    <value>1,5 kilomètres</value>
   </data>
   <data name="NearbyRadiusSetting2" xml:space="preserve">
-    <value>2 miles</value>
+    <value>3 kilomètres</value>
   </data>
   <data name="NearbyRadiusSetting3" xml:space="preserve">
-    <value>5 miles</value>
+    <value>8 kilomètres</value>
   </data>
   <data name="NearbyRadiusSetting4" xml:space="preserve">
-    <value>10 miles</value>
+    <value>16 kilomètres</value>
   </data>
   <data name="NearbyRadiusSetting5" xml:space="preserve">
-    <value>20 miles</value>
+    <value>32 kilomètres</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Erreur</value>
