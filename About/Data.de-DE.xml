@@ -3,8 +3,8 @@
   <App Title="Milkman"
        Author="Matt McCormick"
        Description=""
-       Publisher="Matt McCormick"
-       AdditionalNotes="Diese Anwendung verwendet die Remember The Milk Application programming Interface aber nicht unterstützt oder von Remember The Milk zertifiziert.\n\nSchlag von rechts nach Links für rechtliche Hinweise." />
+       Publisher="René Fischer"
+       AdditionalNotes="Diese Anwendung verwendet die Remember The Milk API, wurde jedoch nicht von Rembember The Milk entwickelt und zertifiziert.\n\nNach links oder rechts wischen für weitere rechtliche Erläuterungen." />
   <Items>
     <MainItem Title="über"
               AppAuthorLabel="von"
@@ -24,51 +24,51 @@
     </MainItem>
     <Item Title="rechtliche" Type="text">
       Datenschutzerklärung
-      Milkman ist eine Client-Anwendung entwickelt, die für Sie mit den ausgezeichneten Remember The Milk-Service zu verbinden. Beachten Sie, dass mithilfe des Diensts Remember The Milk, auch sind Sie wahrscheinlich verpflichtet ihre Nutzungsbedingungen Service (verfügbar unter https://www.rememberthemilk.com/help/terms.rtm) sowie ihre Datenschutzrichtlinie (verfügbar unter https://www.rememberthemilk.com/help/privacy.rtm). Diese Politik ist additiv auf, die Datenschutzerklärung von Remember The Milk, da Milkman nur eine Client-Anwendung ist.
+      Milkman ist eine Client-Applikation für die Verbindung zum vorzüglichen Webservice Remember The Milk. Bitte beachte, das du mit der Nutzung von Remember The Milk auch an die Terms of Service (zu finden unter https://www.rememberthemilk.com/help/terms.rtm) sowie die Datenschutzerklärung (zu finden unter https://www.rememberthemilk.com/help/privacy.rtm) von diesem Webservice gebunden bist. Diese Datenschutzerklärung ist zusätzlich zu der des Remember The Milk Webservice, nachdem es sich bei Milkman lediglich eine Client-Applikation handelt.
 
-      Gesammelten Informationen
-      Bei einem Anwendungsfehler, Absturz oder Problem bitten wir Sie um eine e-Mail-Nachricht mit Abbruch-Informationen zu senden. Solch eine e-Mail kann persönlich identifizierbare Informationen enthalten, und es ist Ihre Entscheidung, ob eine solche Nachricht gesendet. Wenn Sie die app verwenden, bitten wir Sie, uns bestimmte personenbezogene Daten übermitteln, die verwendet werden können, zu kontaktieren oder Sie zu identifizieren und helfen Ihnen bei der Lösung von Unterstützung oder Hilfe bei der app. Dies geschieht durch eine Prompt bitten um Rückmeldungen, so dass Sie eine E-mail-Nachricht zu senden und erfolgt nicht automatisch. Sie wählte für die Interaktion mit Remember The Milk, sammeln wir ein Authentifizierungstoken durch einen Authentifizierungsmechanismus mit dem Service. Als Teil dieses Prozesses wir auch dann überprüft die Anmeldeinformationen durch die Profilinformationen für das primäre Konto anfordern, und diese Informationen können umfassen, Ihre e-Mail-Adresse, Namen und andere Felder, die von der Benutzersuche mit der Remember The Milk API zurückgegeben. Ihr Passwort wird nie von der Anwendung gespeichert. Um Ihnen ein besseres Erlebnis, zur Verbesserung der Anwendung und ihrer Dienste, bieten wir nicht-personenbezogene Informationen (wie die aktuelle Seite innerhalb der Anwendung angezeigt wird) teilen kann um Sie besser zu dienen und zu analysieren und zu verstehen, wie die app verwendet wird. Es gibt Programmeinstellungen, die aktivieren oder deaktivieren Sie diese Funktion.
+      Erhobene und gespeicherte Daten
+      Im Falle eines Programmfehlers, Absturz oder Problemes werden Sie möglicherweise gefragt, ob eine Mail mit entsprechenden Informationen zum Absturz versendet werden soll. Solch eine Mail enthält möglicherweise Informationen die Rückschluss auf die eigene Person erlauben. Es ist allein Ihre Entscheidung ob Sie solch eine Mail versenden wollen. Während der Verwendung der App werden wir Sie möglicherweise bitten, uns Informationen zu senden die einen Rückschluss auf Ihre Person erlauben und eine Kontaktaufnahme ermöglichen um Supportunterstützung oder Unterstützung bei der Bedienung der App zu ermöglichen. Dies wird durch ein Dialogfenster geschehen, das es Ihnen erlaubt, eine Mail zu versenden. Dieser Vorgang ist nicht automatisiert. Wenn Sie sich für eine Interaktion mit Remember The Milk entscheiden, sammeln wir über einen Authentifzierungsmechanismus ein Authentifizierungstoken. Als Bestandteil dieses Prozesses validieren wir außerdem die Zugangsdaten durch die Anforderung der Profilinformationen für den Hauptaccount. Diese Informationen beinhalten möglicherweise Ihre Mailadresse, Namen und alle möglichen weiteren Felder die durch die Benutzerabfrage durch die Remember The Milk API zurückgegeben werden. Ihr Kennwort wird niemals innerhalb der Applikation gespeichert. Zur Steigerung der Benutzerfreundlichkeit, zur allgemeinen Verbesserung der Applikation und seiner Dienste fragen wir möglicherweise nicht personenbezogene Informationen (wie bspw. die aktuell angezeigte Seite innerhalb der Applikation) ab und analysieren diese für ein besseres Verständnis darüber wie die App bedient wird. Dies lässt sich über entsprechende Einstellungen innerhalb der Applikation deaktivieren.
 
-      Alter Politik
-      In Übereinstimmung der Microsofts Anwendung Zertifizierung Anforderungen für Windows Phone müssen Sie kein Konto erstellen, wenn Sie nicht 13 Jahre alt sind. Da die Milkman-Anwendung keine Anmeldung erfordert, erfolgt diese Klausel der Nutzungsbedingungen Remember The Milk, ausweist, dass diejenigen, die jünger als 13 den Dienst nicht benutzen kann.
+      Altersbeschränkung
+      Gemäß den Microsoft Application Certification Bedingungen für Windows Phone müssen Sie keinen Account erstellen, wenn Sie nicht mindestens 13 Jahre alte sind. Nachdem Milkman keinen Benutzeraccount benötigt, ist dieser Absatz durch die Terms of Service von Remember The Milk abgedeckt, nach denen eine Verwendung für diejenigen unter 13 Jahren nicht möglicherweise nicht gestattet wird.
 
-      Notizen
-      Remember The Milk ist ein Warenzeichen von Remember The Milk. Diese Anwendung verwendet die Remember The Milk Application programming Interface aber nicht unterstützt oder von Remember The Milk zertifiziert.
+      Hinweise
+      Remember The Milk ist eine Handelsmarke von Remember The Milk. Diese Anwendung verwendet die Remember The Milk API, wurde jedoch nicht von Rembember The Milk entwickelt und zertifiziert.
 
       Den Autor kontaktieren
-      Wenn Sie Fragen zu dieser Datenschutzerklärung haben, bitte senden Sie eine e-Mail an milkman@mbmccormick.com.
+      Wenn du irgendwelche Fragen zu dieser Datenschutzerklärung hast, sende mir bitte eine Mail an milkman@mbmccormick.com.
 
     </Item>
     <Item Title="was ist neu?" Type="text">
       Version 2.5
-      Diese Version führt die Nearby Aufgabenliste, neue Aufgabe Liste Sortieroptionen, offline-Modus und neue User-Interface-Verbesserungen. Die Synchronisierung und die Reaktionsfähigkeit der Anwendung wurde stark verbessert. Russischer Sprache wird jetzt unterstützt. Diese Version enthält auch mehrere Bug Fixes.
+      Diese Version führt die nah-bei Aufgabenliste ein, neue Aufgaben-Sortiermöglichkeiten, Offline-Modus, und Verbesserungen der neuen Anwendungsoberfläche. Die Synchronisation und die Reaktionsgeschwindigkeit der gesamten Anwendung wurde dramatisch verbessert. Als Sprachversion wird jetzt auch Russisch unterstützt. Darüber hinaus enthält dieses Release auch zahlreiche Fehlerbereinigungen.
 
       Version 2.4
-      In dieser Version wird nun HTTPS, bei der Kommunikation mit Remember The Milk. Einige der Layouts und Schriftgrößen in der gesamten Anwendung neu. Diese Version enthält auch mehrere Bug Fixes.
-
+      Diese Version verwendet bei der Kommunikation mit Remember The Milk HTTPS. Neugestaltung von einigen Layouts und Schriftgrößen in er gesamten Appliation. Darüber hinaus enthält dieses Release auch zahlreiche Fehlerbereinigungen.
+            
       Version 2.3
-      Diese Version ist vollständig lokalisiert und in Spanisch und Italienisch übersetzt. Dazu gehören auch mehrere Bug Fixes und ein aktualisiertes Info-Dialogfeld.
-
+      Diese Version unterstützt als Sprachversion Spanisch und Italienisch. Darüber hinaus enthält dieses Release auch zahlreiche Fehlerbereinigungen.
+            
       Version 2.2
-      Diese Version enthält einige Fehlerkorrekturen und Stabilitätsverbesserungen. Alle Listen nutzen jetzt die Sicht Datum anstelle dies auf der Liste aller Aufgaben zu beschränken. Die live-Kachel enthält jetzt überfällige Aufgaben in die Aufgabenanzahl. Diese Version enthält auch mehrere User-Interface-Verbesserungen.
-
+      Diese Version beinhaltet zahlreiche Fehlerbereinigungen und Stabilitätsverbesserungen. Alle Listen unterstützen nun die Datumsanzeige. Das Live-Tile zeigt jetzt auch die Anzahl der überfälligen Aufgaben an. Darüber hinaus enthält dieses Release auch zahlreiche Verbesserungen der Anwendungsoberfläche.
+            
       Version 2.1
-      Diese Version enthält einen kritischen Bug-Fix auf die Task-Erinnerungen-Funktionalität. Die hinzufügen-Hinweis-Seite hat jetzt Etiketten auf den Titel und den Text-Feldern. Einige zusätzliche kleine Fehlerkorrekturen sind enthalten.
+      Diese Version beinhaltet eine kritische Fehlerbereinigung der Erinnerungsfunktion. Die Notizen-Seite unterstützt nun Labels im Titel- und Inhaltsfeld. Darüber hinaus enthält dieses Release auch kleinere Fehlerbereinigungen.
 
       Version 2.0
-      Dieser major Release poliert komplett die Milkman-Schnittstelle. Sie können nun Aufgaben nach Datum "," Liste "oder" intelligente "anzeigen. Sie können Ihre Aufgabenerinnerungen und Lage Benachrichtigungen anpassen. Sie können jetzt eine Liste oder ein smart Liste als Leben Kachel auf dem Startbildschirm anheften. Auf Wunsch können Sie zwischen hell oder dunkel-Thema. Diese Version hat auch einen schnelleren und effizienteres Task hinzufügen-Dialog. Schließlich gibt es mehrere Bug-Fixes enthalten.
+      Diese Hauptversion erneuert die Anwendungsoberfläche von Milkman. Du kannst Aufgaben nun nach Datum, Listen oder Smartlists ansehen. Du kannst Aufgaben- und Nah-bei-Eerinnerungen anpassen. Du kannst nun jede Liste oder Smartlist an den Startbildschirm heften. Auf Anforderung ist es jetzt möglich zwischen einem hellen und einem dunklen Theme zu wählen. Diese Version bietet außerdem eine schnellere Möglichkeit neue Aufgaben hinzuzufügen. Zu guter letzt sind natürlich auch zahlreiche Fehlerbehebungen enthalten.
 
       Version 1.3
-      Diese Version beinhaltet die Fähigkeit, hinzufügen, bearbeiten und Löschen von Notizen für Aufgaben. Sie können nun auch manuell synchronisieren Sie Ihre Aufgaben statt dabei automatisch, um die Geschwindigkeit der Anwendung zu verbessern. Dazu gehören auch mehrere Bug Fixes und einige kleine Änderungen an der Benutzeroberfläche.
+      Diese Version beinhaltet die Möglichkeit Notizen hinzuzufügen, zu editieren und zu löschen. Du kannst deine Aufgaben nun auch manuell synchronisieren um die allgemeine Programmgeschwindigkeit zu verbessern. Darüber hinaus enthält dieses Release auch zahlreiche Fehlerbereinigungen und Anpassungen der Anwendungsoberfläche.
 
       Version 1.2
-      Diese kleinere Version enthält einige kleine Bug-Fixes für Aufgabenerinnerungen und einige Sicherheits-Updates. Darüber hinaus höhere Auflösung Symbolbilder.
+      Diese Version enthält einioge kleine Änderungen bei den Aufgabenerinnerungen und einige Sicherheitsaktualisierungen. Es enthält außerdem Icons in einer höheren Auflösung.
 
       Version 1.1
-      Diese Version enthält mehrere Bugfixes zur Verbesserung der Zuverlässigkeit der ortsbasierte Erinnerungen, Leben Fliese Updates und Erinnerung zu planen. Die Task bearbeiten-Seite hat jetzt Zauber-Check und AutoVervollständigen-Funktionen. Wenn eine Ausnahme auftritt, haben Benutzer nun die Möglichkeit einen Fehlerbericht mit Diagnose-Informationen über den Absturz an den Entwickler senden.
+      Diese Version enthält zahlreiche Verbesserungen rund um die nah-bei-Erinnerungen, Live-Tile-Updates und der Erinnerungsfunktion. Die Bearbeiten-Seite unterstützt nun die Rechtschreibkontrolle und Auto-Vervollständigen-Funktion. Bei Ausnahmefehlern besteht nun die Möglichkeit, ein Absturzprotokoll für die weitere Diagnose an den Entwickler zu senden.
 
       Version 1.0
-      Dies ist das erste Release von Milkman und enthält die grundlegenden Funktionen von Remember The Milk und voll integriert mit der Windows Phone 7.5 erfahrung.
+      Dies ist die erste Version von Milkman. Sie beinhaltet die Grundfunktionen die von Remember The Milk bereitegstellt werden und integriert sich vollständig in die Windows Phone 7.5 Erfahrung.
 
     </Item>
   </Items>

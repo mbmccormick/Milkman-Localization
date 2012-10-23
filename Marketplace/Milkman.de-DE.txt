@@ -10,15 +10,15 @@ Remember The Milk für WP7
 
 ### Detailed Description
 
-Milkman ist der schnellste und sauberste Weg, um Ihre Aufgaben auf Ihre Windows Phone verwalten. Milkman synchronisiert mit Remember The Milk, ein online-to-do-Liste und Task-Manager. Sie können problemlos anzeigen Ihrer Aufgaben, neue Erinnerungen erstellen und aktualisieren Ihre to-Do-Listen direkt von Ihrem Telefon. Jede Änderung im Milkman vorgenommenen wird Ihrem Konto Remember The Milk synchronisiert, so dass Sie nie die Milch (oder etwas anderes) wieder vergessen werden.
+Milkman ist die schnellste und einfachste Möglichkeit deine Aufgaben mit deinem Windows Phone zu verwalten. Milkman synchronisiert deine Aufgaben mit Remember The Milk, einer online To-Do-Liste und Aufgabenverwaltung. Mit Milkman kannst du deine Aufgaben sehr einfach direkt von deinem Telefon aus vollständig pflegen. Jede von dir in Milkman durchgeführte Veränderung wird mit deinem Remember The Milk-Account synchronisiert, damit du nie wieder deine Milch (oder was auch immer) vergisst.
 
-Milkman integriert nahtlos mit Ihrem Telefon Aufgabe Zähler auf die Anwendung Leben Kachel angezeigt, es zeigt Erinnerungen, bevor eine Aufgabe fällig ist, und Ihnen sogar erlaubt, ortsbasierte Erinnerungen mit Remember The Milk eingerichtet.
+In einem Live-Tile zeigt Milkman die Anzahl der heute fälligen sowie bereits überfälligen Aufgaben an. Milkman erinnert dich an Aufgaben bevor diese fällig werden und erlaubt darüber hinaus sogar ortsabhängige Erinnerungen.
 
-Diese Anwendung verwendet die Remember The Milk Application programming Interface aber nicht unterstützt oder von Remember The Milk zertifiziert.
+Diese Anwendung verwendet die offizielle Remember The Milk API, wurde nicht von Rembember The Milk entwickelt und zertifiziert.
 
 Anwendungsentwicklung von Matt McCormick
 
-Benutzeroberfläche von Libby Puccinelli
+Anwendungsgestaltung von Libby Puccinelli
 
 
 ### Update Description
@@ -28,4 +28,4 @@ Not provided or no data available.
 
 ### Keywords
 
-remember the milk, task manager, todo liste, erinnerung, winmilk
+remember the milk, task manager, todo list, reminder, winmilk, erinnerungen, aufgaben
