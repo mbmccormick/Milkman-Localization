@@ -720,4 +720,7 @@
   <data name="IgnorePrioritySetting" xml:space="preserve">
     <value>Ignorare priorità per l'ordinamento delle attività</value>
   </data>
+  <data name="AddTaskDialogSetting">
+    <value>Utilizzare la finestra di dialogo per l'aggiunta di compiti Smart Add</value>
+  </data>
 </root>

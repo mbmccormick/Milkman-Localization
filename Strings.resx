@@ -825,4 +825,7 @@
   <data name="IgnorePrioritySetting" xml:space="preserve">
     <value>Ignore priority when sorting tasks</value>
   </data>
+  <data name="AddTaskDialogSetting" xml:space="preserve">
+    <value>Use the Smart Add dialog for adding tasks</value>
+  </data>
 </root>

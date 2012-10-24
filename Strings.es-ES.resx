@@ -825,4 +825,7 @@
   <data name="IgnorePrioritySetting">
     <value>Ignorar la prioridad al ordenar tareas</value>
   </data>
+  <data name="AddTaskDialogSetting">
+    <value>Utilice el cuadro de diálogo para agregar tareas Smart Add</value>
+  </data>
 </root>

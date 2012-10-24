@@ -825,4 +825,7 @@
   <data name="IgnorePrioritySetting">
     <value>Игнорировать приоритет при сортировке задач</value>
   </data>
+  <data name="AddTaskDialogSetting">
+    <value>Используйте Smart Add диалоговое окно для добавления задачи</value>
+  </data>
 </root>
