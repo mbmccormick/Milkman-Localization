@@ -372,9 +372,6 @@
   <data name="EditTaskUpper" xml:space="preserve">
     <value>ИЗМЕНИТЬ ЗАДАЧУ</value>
   </data>
-  <data name="EmptyDashboard" xml:space="preserve">
-    <value>У вас нет списков для просмотра.</value>
-  </data>
   <data name="EmptyNotes" xml:space="preserve">
     <value>Для этой задачи нет заметок.</value>
   </data>
@@ -827,5 +824,26 @@
   </data>
   <data name="AddTaskDialogSetting">
     <value>Используйте Smart Add диалоговое окно для добавления задачи</value>
+  </data>
+  <data name="TagsLower">
+    <value>Теги</value>
+  </data>
+  <data name="TagsUpper">
+    <value>ТЕГИ</value>
+  </data>
+  <data name="ListUpper">
+    <value>СПИСКИ</value>
+  </data>
+  <data name="Lists">
+    <value>Списки</value>
+  </data>
+  <data name="ListsLower">
+    <value>списки</value>
+  </data>
+  <data name="EmptyDashboardLists">
+    <value>У вас нет списков для отображения.</value>
+  </data>
+  <data name="EmptyDashboardTags">
+    <value>У вас нет тегов для отображения.</value>
   </data>
 </root>

@@ -381,9 +381,6 @@
   <data name="EditTaskUpper" xml:space="preserve">
     <value>AUFGABE BEARBEITEN</value>
   </data>
-  <data name="EmptyDashboard" xml:space="preserve">
-    <value>Du hast keine Listen zum Anzeigen.</value>
-  </data>
   <data name="EmptyNearbyTaskList" xml:space="preserve">
     <value>Es gibt keine Aufgaben in der Nähe. Woohoo!</value>
   </data>
@@ -422,9 +419,6 @@
   </data>
   <data name="JustAMoment" xml:space="preserve">
     <value>Einen kleinen Moment…</value>
-  </data>
-  <data name="LightThemeSetting" xml:space="preserve">
-    <value>Immer helles Theme verwenden</value>
   </data>
   <data name="List" xml:space="preserve">
     <value>Liste</value>
@@ -678,12 +672,6 @@
   <data name="SettingsMenuUpper" xml:space="preserve">
     <value>EINSTELLUNGEN</value>
   </data>
-  <data name="SettingsThemeDialog" xml:space="preserve">
-    <value>Die Theme-Einstellungen werden beim nächsten Start vom Milkman angewendet.</value>
-  </data>
-  <data name="SettingsThemeDialogTitle" xml:space="preserve">
-    <value>Einstellungen</value>
-  </data>
   <data name="SettingsUpper" xml:space="preserve">
     <value>EINSTELLUNGEN</value>
   </data>
@@ -836,5 +824,26 @@
   </data>
   <data name="AddTaskDialogSetting">
     <value>Verwenden Sie die Smart Add Dialog zum Hinzufügen Aufgaben</value>
+  </data>
+  <data name="EmptyDashboardLists">
+    <value>Du hast keine Listen zum Anzeigen.</value>
+  </data>
+  <data name="Lists">
+    <value>Listen</value>
+  </data>
+  <data name="ListsLower">
+    <value>Listen</value>
+  </data>
+  <data name="ListUpper">
+    <value>LISTEN</value>
+  </data>
+  <data name="EmptyDashboardTags">
+    <value>Du hast keine Tags zum Anzeigen.</value>
+  </data>
+  <data name="TagsLower">
+    <value>Tags</value>
+  </data>
+  <data name="TagsUpper">
+    <value>TAGS</value>
   </data>
 </root>

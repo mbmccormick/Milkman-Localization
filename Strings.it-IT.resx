@@ -255,9 +255,6 @@
   <data name="EditTaskUpper" xml:space="preserve">
     <value>MODIFICA ATTIVITÀ</value>
   </data>
-  <data name="EmptyDashboard" xml:space="preserve">
-    <value>Non ci sono liste da visualizzare.</value>
-  </data>
   <data name="EmptyNotes" xml:space="preserve">
     <value>Non ci sono note per questa attività.</value>
   </data>
@@ -722,5 +719,26 @@
   </data>
   <data name="AddTaskDialogSetting">
     <value>Utilizzare la finestra di dialogo per l'aggiunta di compiti Smart Add</value>
+  </data>
+  <data name="EmptyDashboardLists">
+    <value>Non ci sono liste da visualizzare.</value>
+  </data>
+  <data name="Lists">
+    <value>Liste</value>
+  </data>
+  <data name="ListsLower">
+    <value>liste</value>
+  </data>
+  <data name="ListUpper">
+    <value>LISTE</value>
+  </data>
+  <data name="TagsLower">
+    <value>etichette</value>
+  </data>
+  <data name="TagsUpper">
+    <value>ETICHETTE</value>
+  </data>
+  <data name="EmptyDashboardTags">
+    <value>Non ci sono etichette da visualizzare.</value>
   </data>
 </root>

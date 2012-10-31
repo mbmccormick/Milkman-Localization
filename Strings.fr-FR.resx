@@ -240,9 +240,6 @@
   <data name="DonateMenuUpper" xml:space="preserve">
     <value>FAITES UN DON</value>
   </data>
-  <data name="EmptyDashboard" xml:space="preserve">
-    <value>Vous n&amp;#39;avez pas les listes à afficher.</value>
-  </data>
   <data name="FeedbackMenu" xml:space="preserve">
     <value>Réaction</value>
   </data>
@@ -827,5 +824,26 @@
   </data>
   <data name="AddTaskDialogSetting">
     <value>Utilisez la boîte de dialogue pour ajouter des tâches Smart Add</value>
+  </data>
+  <data name="EmptyDashboardLists">
+    <value>Vous n&amp;#39;avez pas les listes à afficher.</value>
+  </data>
+  <data name="Lists">
+    <value>Listes</value>
+  </data>
+  <data name="ListsLower">
+    <value>listes</value>
+  </data>
+  <data name="ListUpper">
+    <value>LISTES</value>
+  </data>
+  <data name="TagsLower">
+    <value>balises</value>
+  </data>
+  <data name="TagsUpper">
+    <value>BALISES</value>
+  </data>
+  <data name="EmptyDashboardTags">
+    <value>Vous n&amp;#39;avez pas les balises à afficher.</value>
   </data>
 </root>
