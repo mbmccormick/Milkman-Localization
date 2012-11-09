@@ -40,18 +40,21 @@
 
     </Item>
     <Item Title="was ist neu?" Type="text">
+      Version 2.6
+      Diese Version führt schließlich Sortieren nach Markierungen Funktionalität. Sie können jetzt Ihre Aufgaben durch Tag und polig Markierungen an den Startbildschirm anzeigen. Sie haben jetzt die Möglichkeit der Verwendung von Seite Task hinzufügen oder die bestehenden Smart hinzufügen Dialogfeld zum Hinzufügen von neue Aufgaben. Es gibt auch eine neue Dashboard-Seite für kommende Aufgaben schnell zu betrachten. Diese Version bietet französische und deutsche Übersetzungen. Weitere Bugfixes, weitere UI-Layout-Änderungen und weitere Performance-Verbesserungen.
+
       Version 2.5
       Diese Version führt die nah-bei Aufgabenliste ein, neue Aufgaben-Sortiermöglichkeiten, Offline-Modus, und Verbesserungen der neuen Anwendungsoberfläche. Die Synchronisation und die Reaktionsgeschwindigkeit der gesamten Anwendung wurde dramatisch verbessert. Als Sprachversion wird jetzt auch Russisch unterstützt. Darüber hinaus enthält dieses Release auch zahlreiche Fehlerbereinigungen.
 
       Version 2.4
       Diese Version verwendet bei der Kommunikation mit Remember The Milk HTTPS. Neugestaltung von einigen Layouts und Schriftgrößen in er gesamten Appliation. Darüber hinaus enthält dieses Release auch zahlreiche Fehlerbereinigungen.
-            
+
       Version 2.3
       Diese Version unterstützt als Sprachversion Spanisch und Italienisch. Darüber hinaus enthält dieses Release auch zahlreiche Fehlerbereinigungen.
-            
+
       Version 2.2
       Diese Version beinhaltet zahlreiche Fehlerbereinigungen und Stabilitätsverbesserungen. Alle Listen unterstützen nun die Datumsanzeige. Das Live-Tile zeigt jetzt auch die Anzahl der überfälligen Aufgaben an. Darüber hinaus enthält dieses Release auch zahlreiche Verbesserungen der Anwendungsoberfläche.
-            
+
       Version 2.1
       Diese Version beinhaltet eine kritische Fehlerbereinigung der Erinnerungsfunktion. Die Notizen-Seite unterstützt nun Labels im Titel- und Inhaltsfeld. Darüber hinaus enthält dieses Release auch kleinere Fehlerbereinigungen.
 

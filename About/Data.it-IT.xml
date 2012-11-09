@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="novità?" Type="text">
+      Versione 2.6
+      Questo rilascio introduce infine sorta dalla funzionalità di tag. È ora possibile visualizzare le attività di tag e il tag pin alla schermata di avvio. Ora avete la possibilità di utilizzare la finestra di dialogo Aggiungi Smart esistente o la pagina attività Add per l'aggiunta di nuove attività. C'è anche una nuova pagina dashboard per visualizzare rapidamente i compiti successivi. Queste release aggiunge traduzioni francesi e tedeschi. Ulteriori correzioni di bug, ulteriori modifiche di layout dell'interfaccia utente e ulteriori miglioramenti delle prestazioni.
+      
       Versione 2.5
       Questa versione include l'elenco delle attività nei pressi, nuove opzioni di ordinamento delle attività, modalità offline ed alcuni miglioramenti dell'interfaccia utente. La sincronizzazione e la reattività dell'applicazione sono stati notevolmente migliorati. Include la traduzione in russo. Questa release include anche diverse correzioni di bug.
 

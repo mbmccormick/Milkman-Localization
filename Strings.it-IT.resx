@@ -741,4 +741,7 @@
   <data name="EmptyDashboardTags">
     <value>Non ci sono etichette da visualizzare.</value>
   </data>
+  <data name="NoLower">
+    <value>no</value>
+  </data>
 </root>

@@ -846,4 +846,7 @@
   <data name="TagsUpper">
     <value>TAGS</value>
   </data>
+  <data name="NoLower">
+    <value>Nein</value>
+  </data>
 </root>

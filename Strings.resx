@@ -846,4 +846,10 @@
   <data name="EmptyDashboardTags" xml:space="preserve">
     <value>You have no tags to display.</value>
   </data>
+  <data name="NoLower" xml:space="preserve">
+    <value>no</value>
+  </data>
+  <data name="YesLower" xml:space="preserve">
+    <value>yes</value>
+  </data>
 </root>

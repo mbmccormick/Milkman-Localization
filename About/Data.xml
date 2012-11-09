@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="what's new?" Type="text">
+      Version 2.6
+      This release finally introduces sort by tags functionality. You can now view your tasks by tag and pin tags to your start screen. You now have the option of using the existing Smart Add dialog or the Task Add page for adding new tasks. There's also a brand new dashboard page for quickly viewing upcoming tasks. These release adds French and German translations. More bug fixes, more UI layout changes, and more performance improvements.
+      
       Version 2.5
       This release introduces the Nearby task list, new task list sorting options, offline mode, and new user interface enhancements. The syncing and responsiveness of the application has been greatly improved. Russian language is now supported. This release also includes several bug fixes.
 

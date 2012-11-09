@@ -846,4 +846,7 @@
   <data name="EmptyDashboardTags">
     <value>У вас нет тегов для отображения.</value>
   </data>
+  <data name="NoLower">
+    <value>нет</value>
+  </data>
 </root>

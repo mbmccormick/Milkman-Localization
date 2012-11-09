@@ -846,4 +846,7 @@
   <data name="EmptyDashboardTags">
     <value>Vous n&amp;#39;avez pas les balises à afficher.</value>
   </data>
+  <data name="NoLower">
+    <value>ne</value>
+  </data>
 </root>

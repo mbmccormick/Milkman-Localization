@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="dernière mise à jour?" Type="text">
+      Version 2.6
+      Cette version introduit enfin Trier par fonctionnalité balises. Vous pouvez désormais afficher vos tâches par balise et balises de code pin pour votre écran de démarrage. Vous avez maintenant la possibilité d'utiliser la boîte de dialogue Ajouter Smart existant ou à la page Ajouter des tâches permettant d'ajouter de nouvelles tâches. Il y a aussi une toute nouvelle page de tableau de bord permettant de visualiser rapidement les tâches à venir. Ces rejets ajoute traductions françaises et allemandes. Plusieurs corrections de bugs, plusieurs modifications de disposition d'interface utilisateur et d'autres améliorations de performances.
+
       Version 2.5
       Cette version présente la liste des tâches, des options de tri de liste des tâches, en mode hors connexion et nouvelles améliorations de l'interface utilisateur proche. La synchronisation et la réactivité de l'application a été grandement améliorée. Langue russe est désormais pris en charge. Cette version inclut également plusieurs corrections de bugs.
 
