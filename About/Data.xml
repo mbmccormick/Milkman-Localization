@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="what's new?" Type="text">
+      Version 3.0
+      This release for Windows Phone 8 includes support for the new live tiles and allows you to add tasks using voice recognition. The application now loads much faster and fixes an issue with offline mode. This release also includes several bug fixes.
+      
       Version 2.6
       This release finally introduces sort by tags functionality. You can now view your tasks by tag and pin tags to your start screen. You now have the option of using the existing Smart Add dialog or the Task Add page for adding new tasks. There's also a brand new dashboard page for quickly viewing upcoming tasks. These release adds French and German translations. More bug fixes, more UI layout changes, and more performance improvements.
       

@@ -405,17 +405,8 @@
   <data name="List" xml:space="preserve">
     <value>Список</value>
   </data>
-  <data name="LiveTileEmpty" xml:space="preserve">
-    <value>Нет задач на сегодня</value>
-  </data>
   <data name="LiveTileOverdue" xml:space="preserve">
     <value>просроченные</value>
-  </data>
-  <data name="LiveTilePlural" xml:space="preserve">
-    <value>задач(и) на сегодня</value>
-  </data>
-  <data name="LiveTileSingle" xml:space="preserve">
-    <value>задача на сегдня</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Загрузка...</value>
@@ -848,5 +839,35 @@
   </data>
   <data name="NoLower">
     <value>нет</value>
+  </data>
+  <data name="LiveTileTodayEmpty">
+    <value>Нет задач на сегодня</value>
+  </data>
+  <data name="LiveTileTodayPlural">
+    <value>задач(и) на сегодня</value>
+  </data>
+  <data name="LiveTileTodaySingle">
+    <value>задача на сегдня</value>
+  </data>
+  <data name="YesLower">
+    <value>Да</value>
+  </data>
+  <data name="LiveTileOverdueEmpty">
+    <value>Нет просроченных задач</value>
+  </data>
+  <data name="LiveTileOverduePlural">
+    <value>задачи просроченных</value>
+  </data>
+  <data name="LiveTileOverdueSingle">
+    <value>задача просроченных</value>
+  </data>
+  <data name="LiveTileTomorrow">
+    <value>Завтра Due</value>
+  </data>
+  <data name="LiveTileTomorrowEmpty">
+    <value>Задачи не завтра due</value>
+  </data>
+  <data name="LiveTileTomorrowPlural">
+    <value>задачи должным образом завтра</value>
   </data>
 </root>

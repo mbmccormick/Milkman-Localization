@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="was ist neu?" Type="text">
+      Version 3.0
+      Diese Version für Windows Phone 8 enthält Unterstützung für die neue Live-Kacheln und ermöglicht es Ihnen, Aufgaben mit Spracherkennung hinzuzufügen. Die Anwendung lädt nun viel schneller und behebt ein Problem mit Offline-Modus. Dieses Release enthält auch einige Fehlerkorrekturen.
+      
       Version 2.6
       Diese Version führt schließlich Sortieren nach Markierungen Funktionalität. Sie können jetzt Ihre Aufgaben durch Tag und polig Markierungen an den Startbildschirm anzeigen. Sie haben jetzt die Möglichkeit der Verwendung von Seite Task hinzufügen oder die bestehenden Smart hinzufügen Dialogfeld zum Hinzufügen von neue Aufgaben. Es gibt auch eine neue Dashboard-Seite für kommende Aufgaben schnell zu betrachten. Diese Version bietet französische und deutsche Übersetzungen. Weitere Bugfixes, weitere UI-Layout-Änderungen und weitere Performance-Verbesserungen.
 

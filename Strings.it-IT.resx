@@ -288,17 +288,8 @@
   <data name="List" xml:space="preserve">
     <value>Lista</value>
   </data>
-  <data name="LiveTileEmpty" xml:space="preserve">
-    <value>Nessuna attività scade oggi</value>
-  </data>
   <data name="LiveTileOverdue" xml:space="preserve">
     <value>scadute</value>
-  </data>
-  <data name="LiveTilePlural" xml:space="preserve">
-    <value>attività che scadono oggi</value>
-  </data>
-  <data name="LiveTileSingle" xml:space="preserve">
-    <value>attività che scade oggi</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Sto caricando…</value>
@@ -743,5 +734,38 @@
   </data>
   <data name="NoLower">
     <value>no</value>
+  </data>
+  <data name="LiveTileTodayEmpty">
+    <value>Nessuna attività scade oggi</value>
+  </data>
+  <data name="LiveTileTodayPlural">
+    <value>attività che scadono oggi</value>
+  </data>
+  <data name="LiveTileTodaySingle">
+    <value>attività che scade oggi</value>
+  </data>
+  <data name="YesLower">
+    <value>sì</value>
+  </data>
+  <data name="LiveTileOverdueEmpty">
+    <value>Nessuna attività in ritardo</value>
+  </data>
+  <data name="LiveTileOverduePlural">
+    <value>attività scadute</value>
+  </data>
+  <data name="LiveTileOverdueSingle">
+    <value>attività scadute</value>
+  </data>
+  <data name="LiveTileTomorrow">
+    <value>Scadenza domani</value>
+  </data>
+  <data name="LiveTileTomorrowEmpty">
+    <value>Nessuna attività dovuta domani</value>
+  </data>
+  <data name="LiveTileTomorrowPlural">
+    <value>attività dovuta domani</value>
+  </data>
+  <data name="LiveTileTomorrowSingle">
+    <value>attività dovuta domani</value>
   </data>
 </root>

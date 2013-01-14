@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="dernière mise à jour?" Type="text">
+      Version 3.0
+      Cette version de Windows Phone 8 inclut le support pour les nouvelles tuiles en direct et vous permet d'ajouter des tâches en utilisant la reconnaissance vocale. L'application charge beaucoup plus rapide et corrige un problème avec le mode hors connexion. Cette version inclut également plusieurs corrections de bugs.
+      
       Version 2.6
       Cette version introduit enfin Trier par fonctionnalité balises. Vous pouvez désormais afficher vos tâches par balise et balises de code pin pour votre écran de démarrage. Vous avez maintenant la possibilité d'utiliser la boîte de dialogue Ajouter Smart existant ou à la page Ajouter des tâches permettant d'ajouter de nouvelles tâches. Il y a aussi une toute nouvelle page de tableau de bord permettant de visualiser rapidement les tâches à venir. Ces rejets ajoute traductions françaises et allemandes. Plusieurs corrections de bugs, plusieurs modifications de disposition d'interface utilisateur et d'autres améliorations de performances.
 

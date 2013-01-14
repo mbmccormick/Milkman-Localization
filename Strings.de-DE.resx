@@ -423,9 +423,6 @@
   <data name="List" xml:space="preserve">
     <value>Liste</value>
   </data>
-  <data name="LiveTileEmpty" xml:space="preserve">
-    <value>Keine Aufgaben heute fällig</value>
-  </data>
   <data name="LiveTileNearbyEmpty" xml:space="preserve">
     <value>Keine Aufgaben in der Nähe</value>
   </data>
@@ -437,12 +434,6 @@
   </data>
   <data name="LiveTileOverdue" xml:space="preserve">
     <value>Überfällig</value>
-  </data>
-  <data name="LiveTilePlural" xml:space="preserve">
-    <value>Heute fällige Aufgaben</value>
-  </data>
-  <data name="LiveTileSingle" xml:space="preserve">
-    <value>Heute fällige Aufgabe</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Lade…</value>
@@ -848,5 +839,38 @@
   </data>
   <data name="NoLower">
     <value>Nein</value>
+  </data>
+  <data name="LiveTileTodayEmpty">
+    <value>Keine Aufgaben heute fällig</value>
+  </data>
+  <data name="LiveTileTodayPlural">
+    <value>Heute fällige Aufgaben</value>
+  </data>
+  <data name="LiveTileTodaySingle">
+    <value>Heute fällige Aufgabe</value>
+  </data>
+  <data name="YesLower">
+    <value>ja</value>
+  </data>
+  <data name="LiveTileOverdueEmpty">
+    <value>Keine überfällige Aufgaben</value>
+  </data>
+  <data name="LiveTileOverduePlural">
+    <value>Aufgaben überfällig</value>
+  </data>
+  <data name="LiveTileOverdueSingle">
+    <value>Aufgabe überfällig</value>
+  </data>
+  <data name="LiveTileTomorrow">
+    <value>morgen fällig</value>
+  </data>
+  <data name="LiveTileTomorrowEmpty">
+    <value>Keine Aufgaben morgen fällig</value>
+  </data>
+  <data name="LiveTileTomorrowPlural">
+    <value>Aufgaben morgen fällig</value>
+  </data>
+  <data name="LiveTileTomorrowSingle">
+    <value>Aufgabe morgen fällig</value>
   </data>
 </root>
