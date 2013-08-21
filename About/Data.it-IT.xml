@@ -17,8 +17,8 @@
         <Link NavigateUri="http://mbmccormick.com"
               Content="http://mbmccormick.com"
               Label="Sito Web:" />
-        <Link NavigateUri="mailto:milkman@mbmccormick.com"
-              Content="milkman@mbmccormick.com"
+        <Link NavigateUri="mailto:feedback@mbmccormick.com"
+              Content="feedback@mbmccormick.com"
               Label="Supporto:" />
       </Links>
     </MainItem>
@@ -36,13 +36,16 @@
       Remember The Milk è un marchio registrato di Remember The Milk. Questa applicazione utilizza l'interfaccia di programmazione di Remember The Milk, ma non è approvata o certificata da Remember The Milk.
 
       Come contattare l'autore
-      Se avete domande e dubbi circa questa politica sulla privacy, si prega di inviare una email a milkman@mbmccormick.com.
+      Se avete domande e dubbi circa questa politica sulla privacy, si prega di inviare una email a feedback@mbmccormick.com.
 
     </Item>
     <Item Title="novità?" Type="text">
+      Versione 3.1
+      Questa rilascio include diverse correzioni legate alla Smart List e offre una sincronizzazione più efficiente dei compiti. Questa release include anche diverse correzioni di bug.
+
       Versione 3.0
       Questa versione per Windows Phone 8 include il supporto per le nuove tessere dal vivo e ti permette di aggiungere attività con riconoscimento vocale. L'applicazione carica molto più veloce e consente di risolvere un problema con la modalità non in linea. Questa versione include anche diversi bug fix.
-      
+
       Versione 2.6
       Questo rilascio introduce infine sorta dalla funzionalità di tag. È ora possibile visualizzare le attività di tag e il tag pin alla schermata di avvio. Ora avete la possibilità di utilizzare la finestra di dialogo Aggiungi Smart esistente o la pagina attività Add per l'aggiunta di nuove attività. C'è anche una nuova pagina dashboard per visualizzare rapidamente i compiti successivi. Queste release aggiunge traduzioni francesi e tedeschi. Ulteriori correzioni di bug, ulteriori modifiche di layout dell'interfaccia utente e ulteriori miglioramenti delle prestazioni.
 

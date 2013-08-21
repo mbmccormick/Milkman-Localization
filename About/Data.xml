@@ -17,8 +17,8 @@
         <Link NavigateUri="http://mbmccormick.com"
               Content="http://mbmccormick.com"
               Label="Website:" />
-        <Link NavigateUri="mailto:milkman@mbmccormick.com"
-              Content="milkman@mbmccormick.com"
+        <Link NavigateUri="mailto:feedback@mbmccormick.com"
+              Content="feedback@mbmccormick.com"
               Label="Support:" />
       </Links>
     </MainItem>
@@ -36,10 +36,13 @@
       Remember The Milk is a trademark of Remember The Milk. This application uses the Remember The Milk application programming interface but is not endorsed or certified by Remember The Milk.
 
       Contacting the Author
-      If you have any questions about this Privacy Policy, please send an email to milkman@mbmccormick.com.
+      If you have any questions about this Privacy Policy, please send an email to feedback@mbmccormick.com.
 
     </Item>
     <Item Title="what's new?" Type="text">
+      Version 3.1
+      This release includes several fixes related to Smart Lists and offers more efficient syncing of tasks. This release also includes several bug fixes.
+      
       Version 3.0
       This release for Windows Phone 8 includes support for the new live tiles and allows you to add tasks using voice recognition. The application now loads much faster and fixes an issue with offline mode. This release also includes several bug fixes.
       

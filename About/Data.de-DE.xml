@@ -17,8 +17,8 @@
         <Link NavigateUri="http://mbmccormick.com"
               Content="http://mbmccormick.com"
               Label="Webseite:" />
-        <Link NavigateUri="mailto:milkman@mbmccormick.com"
-              Content="milkman@mbmccormick.com"
+        <Link NavigateUri="mailto:feedback@mbmccormick.com"
+              Content="feedback@mbmccormick.com"
               Label="Unterstützung:" />
       </Links>
     </MainItem>
@@ -36,13 +36,16 @@
       Remember The Milk ist eine Handelsmarke von Remember The Milk. Diese Anwendung verwendet die Remember The Milk API, wurde jedoch nicht von Rembember The Milk entwickelt und zertifiziert.
 
       Den Autor kontaktieren
-      Wenn du irgendwelche Fragen zu dieser Datenschutzerklärung hast, sende mir bitte eine Mail an milkman@mbmccormick.com.
+      Wenn du irgendwelche Fragen zu dieser Datenschutzerklärung hast, sende mir bitte eine Mail an feedback@mbmccormick.com.
 
     </Item>
     <Item Title="was ist neu?" Type="text">
+      Version 3.1
+      Diese Version enthält verschiedene Fehlerbehebungen mit Bezug zu Smart Lists und bietet eine effizientere Synchronisierung von Aufgaben. Diese Version enthält auch mehrere Bug Fixes.
+
       Version 3.0
       Diese Version für Windows Phone 8 enthält Unterstützung für die neue Live-Kacheln und ermöglicht es Ihnen, Aufgaben mit Spracherkennung hinzuzufügen. Die Anwendung lädt nun viel schneller und behebt ein Problem mit Offline-Modus. Dieses Release enthält auch einige Fehlerkorrekturen.
-      
+
       Version 2.6
       Diese Version führt schließlich Sortieren nach Markierungen Funktionalität. Sie können jetzt Ihre Aufgaben durch Tag und polig Markierungen an den Startbildschirm anzeigen. Sie haben jetzt die Möglichkeit der Verwendung von Seite Task hinzufügen oder die bestehenden Smart hinzufügen Dialogfeld zum Hinzufügen von neue Aufgaben. Es gibt auch eine neue Dashboard-Seite für kommende Aufgaben schnell zu betrachten. Diese Version bietet französische und deutsche Übersetzungen. Weitere Bugfixes, weitere UI-Layout-Änderungen und weitere Performance-Verbesserungen.
 

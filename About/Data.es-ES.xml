@@ -17,8 +17,8 @@
         <Link NavigateUri="http://mbmccormick.com"
               Content="http://mbmccormick.com"
               Label="Sitio Web:" />        
-        <Link NavigateUri="mailto:milkman@mbmccormick.com"
-              Content="milkman@mbmccormick.com"
+        <Link NavigateUri="mailto:feedback@mbmccormick.com"
+              Content="feedback@mbmccormick.com"
               Label="Apoyo:" />
       </Links>
     </MainItem>
@@ -36,10 +36,13 @@
       Remember The Milk es una marca registrada de Remember The Milk. Esta aplicación utiliza la interfaz de programación de aplicaciones de Remember The Milk pero no es aprobada o certificada por Remember The Milk.
 
       Ponerse en contacto con el autor
-      Si tienes alguna pregunta sobre esta política de privacidad, por favor enviar un correo electrónico a milkman@mbmccormick.com.
+      Si tienes alguna pregunta sobre esta política de privacidad, por favor enviar un correo electrónico a feedback@mbmccormick.com.
 
     </Item>
     <Item Title="¿qué novedades?" Type="text">
+      Versión 3.1
+      Esta versión incluye varias correcciones relacionadas con Smart Lists y ofrece sincronización más eficiente de las tareas. Esta versión también incluye varias correcciones de errores.
+
       Versión 3.0
       Esta versión para el teléfono de Windows 8 incluye soporte para los nuevos azulejos en vivo y te permite añadir tareas utilizando reconocimiento de voz. La aplicación ahora carga mucho más rápido y corrige un problema con el modo fuera de línea. Esta versión también incluye varias correcciones de errores.
 
