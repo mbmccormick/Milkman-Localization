@@ -81,9 +81,6 @@
   <data name="Authorization" xml:space="preserve">
     <value>Autorizzazione</value>
   </data>
-  <data name="AuthorizationDialog" xml:space="preserve">
-    <value>Accedi a Remember The Milk per autorizzare Milkman all'accesso. Quando il processo è completato, tocca il pulsante Completa per continuare.</value>
-  </data>
   <data name="AuthorizationDialogTitle" xml:space="preserve">
     <value>Autorizzazione</value>
   </data>
@@ -287,9 +284,6 @@
   </data>
   <data name="List" xml:space="preserve">
     <value>Lista</value>
-  </data>
-  <data name="LiveTileOverdue" xml:space="preserve">
-    <value>scadute</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Sto caricando…</value>
@@ -633,15 +627,6 @@
   <data name="TaskUpper" xml:space="preserve">
     <value>ATTIVITÀ</value>
   </data>
-  <data name="LiveTileNearbyEmpty" xml:space="preserve">
-    <value>Nessuna attività nei pressi</value>
-  </data>
-  <data name="LiveTileNearbyPlural" xml:space="preserve">
-    <value>attività nei pressi</value>
-  </data>
-  <data name="LiveTileNearbySingle" xml:space="preserve">
-    <value>attività nei pressi</value>
-  </data>
   <data name="EmptyNearbyTaskList" xml:space="preserve">
     <value>Non ci sono attività nei pressi. Urrà!</value>
   </data>
@@ -735,37 +720,55 @@
   <data name="NoLower">
     <value>no</value>
   </data>
-  <data name="LiveTileTodayEmpty">
-    <value>Nessuna attività scade oggi</value>
-  </data>
-  <data name="LiveTileTodayPlural">
-    <value>attività che scadono oggi</value>
-  </data>
-  <data name="LiveTileTodaySingle">
-    <value>attività che scade oggi</value>
-  </data>
   <data name="YesLower">
     <value>sì</value>
   </data>
-  <data name="LiveTileOverdueEmpty">
-    <value>Nessuna attività in ritardo</value>
+  <data name="AuthorizationDialog">
+    <value>Milkman ha bisogno dell'autorizzazione a utilizzare il tuo account Remember The Milk per continuare. Accedi al tuo account e toccare il pulsante completo per continue.\n\nMilkman mai memorizzare o condividere le tue informazioni personali.</value>
   </data>
-  <data name="LiveTileOverduePlural">
-    <value>attività scadute</value>
+  <data name="CompletingTasks">
+    <value>Completare i compiti...</value>
   </data>
-  <data name="LiveTileOverdueSingle">
-    <value>attività scadute</value>
+  <data name="DeletingTasks">
+    <value>Eliminazione di attività...</value>
   </data>
-  <data name="LiveTileTomorrow">
-    <value>Scadenza domani</value>
+  <data name="LastUpdated">
+    <value>Ultimo aggiornamento</value>
   </data>
-  <data name="LiveTileTomorrowEmpty">
-    <value>Nessuna attività dovuta domani</value>
+  <data name="MinutesAgo">
+    <value>minuti fa</value>
   </data>
-  <data name="LiveTileTomorrowPlural">
-    <value>attività dovuta domani</value>
+  <data name="OverAnHourAgo">
+    <value>più di un'ora fa</value>
   </data>
-  <data name="LiveTileTomorrowSingle">
-    <value>attività dovuta domani</value>
+  <data name="PostponingTasks">
+    <value>Rimandare i compiti...</value>
+  </data>
+  <data name="RegistrationDialog">
+    <value>Milkman richiede un account Remember The Milk per sincronizzare le attività sul Web e in tutti i tuoi dispositivi. Creare un account e ritorno al lattaio a continue.\n\nMilkman sarà mai memorizzare o condividere le tue informazioni personali.</value>
+  </data>
+  <data name="RegistrationDialogTitle">
+    <value>Registrazione</value>
+  </data>
+  <data name="UpToDate">
+    <value>Milkman è aggiornato</value>
+  </data>
+  <data name="LiveTileNearby">
+    <value>Vicino</value>
+  </data>
+  <data name="LiveTileDueToday">
+    <value>A causa oggi</value>
+  </data>
+  <data name="LiveTileMoreDueToday">
+    <value>più dovuto oggi</value>
+  </data>
+  <data name="LiveTileMoreNearby">
+    <value>più vicina</value>
+  </data>
+  <data name="DonateDialog" xml:space="preserve">
+    <value>Ringrazio per la vostra donazione! Il vostro sostegno mi motiva a continuare a sviluppare per Milkman, il miglior client di Remember The Milk per Windows Phone.</value>
+  </data>
+  <data name="DonateDialogTitle" xml:space="preserve">
+    <value>Grazie</value>
   </data>
 </root>

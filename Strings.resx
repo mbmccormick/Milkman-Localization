@@ -178,7 +178,7 @@
     <value>Authorization</value>
   </data>
   <data name="AuthorizationDialog" xml:space="preserve">
-    <value>Sign in to Remember The Milk to authorize Milkman. When you finish the authorization process, tap the Complete button to continue.</value>
+    <value>Milkman needs permission to use your Remember The Milk account to continue. Sign in to your account and tap the Complete button to continue.\n\nMilkman will never store or share your personal information.</value>
   </data>
   <data name="AuthorizationDialogTitle" xml:space="preserve">
     <value>Authorization</value>
@@ -263,18 +263,6 @@
   </data>
   <data name="JustAMoment" xml:space="preserve">
     <value>Just a moment...</value>
-  </data>
-  <data name="LiveTileTodayEmpty" xml:space="preserve">
-    <value>No tasks due today</value>
-  </data>
-  <data name="LiveTileOverdue" xml:space="preserve">
-    <value>overdue</value>
-  </data>
-  <data name="LiveTileTodayPlural" xml:space="preserve">
-    <value>tasks due today</value>
-  </data>
-  <data name="LiveTileTodaySingle" xml:space="preserve">
-    <value>task due today</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Loading...</value>
@@ -706,10 +694,10 @@
     <value>Error Report</value>
   </data>
   <data name="MarketplaceDialog" xml:space="preserve">
-    <value>It's been a few days since you downloaded Milkman. Would you like to rate it on the Marketplace?</value>
+    <value>It's been a few days since you downloaded Milkman. Would you like to leave a review for it on the Windows Phone Store?</value>
   </data>
   <data name="MarketplaceDialogTitle" xml:space="preserve">
-    <value>Rate Milkman</value>
+    <value>Review Milkman</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Never</value>
@@ -761,15 +749,6 @@
   </data>
   <data name="TaskUpper" xml:space="preserve">
     <value>TASK</value>
-  </data>
-  <data name="LiveTileNearbyEmpty" xml:space="preserve">
-    <value>No tasks nearby</value>
-  </data>
-  <data name="LiveTileNearbyPlural" xml:space="preserve">
-    <value>tasks nearby</value>
-  </data>
-  <data name="LiveTileNearbySingle" xml:space="preserve">
-    <value>task nearby</value>
   </data>
   <data name="EmptyNearbyTaskList" xml:space="preserve">
     <value>There are no tasks nearby. Woohoo!</value>
@@ -852,25 +831,49 @@
   <data name="YesLower" xml:space="preserve">
     <value>yes</value>
   </data>
-  <data name="LiveTileOverdueEmpty" xml:space="preserve">
-    <value>No tasks overdue</value>
+  <data name="CompletingTasks" xml:space="preserve">
+    <value>Completing tasks...</value>
   </data>
-  <data name="LiveTileOverduePlural" xml:space="preserve">
-    <value>tasks overdue</value>
+  <data name="DeletingTasks" xml:space="preserve">
+    <value>Deleting tasks...</value>
   </data>
-  <data name="LiveTileOverdueSingle" xml:space="preserve">
-    <value>task overdue</value>
+  <data name="LastUpdated" xml:space="preserve">
+    <value>Last updated</value>
   </data>
-  <data name="LiveTileTomorrow" xml:space="preserve">
-    <value>due tomorrow</value>
+  <data name="MinutesAgo" xml:space="preserve">
+    <value>minutes ago</value>
   </data>
-  <data name="LiveTileTomorrowEmpty" xml:space="preserve">
-    <value>No tasks due tomorrow</value>
+  <data name="PostponingTasks" xml:space="preserve">
+    <value>Postponing tasks...</value>
   </data>
-  <data name="LiveTileTomorrowPlural" xml:space="preserve">
-    <value>tasks due tomorrow</value>
+  <data name="UpToDate" xml:space="preserve">
+    <value>Milkman is up-to-date</value>
   </data>
-  <data name="LiveTileTomorrowSingle" xml:space="preserve">
-    <value>task due tomorrow</value>
+  <data name="OverAnHourAgo" xml:space="preserve">
+    <value>over an hour ago</value>
+  </data>
+  <data name="RegistrationDialog" xml:space="preserve">
+    <value>Milkman requires a Remember The Milk account to sync your tasks to the web and across all of your devices. Create an account and return to Milkman to continue.\n\nMilkman will never store or share your personal information.</value>
+  </data>
+  <data name="RegistrationDialogTitle" xml:space="preserve">
+    <value>Registration</value>
+  </data>
+  <data name="LiveTileDueToday" xml:space="preserve">
+    <value>Due today</value>
+  </data>
+  <data name="LiveTileMoreDueToday" xml:space="preserve">
+    <value>more due today</value>
+  </data>
+  <data name="LiveTileMoreNearby" xml:space="preserve">
+    <value>more nearby</value>
+  </data>
+  <data name="LiveTileNearby" xml:space="preserve">
+    <value>Nearby</value>
+  </data>
+  <data name="DonateDialog" xml:space="preserve">
+    <value>Thank you for your donation! Your support motivates me to keep developing for Milkman, the best Remember The Milk client for Windows Phone.</value>
+  </data>
+  <data name="DonateDialogTitle" xml:space="preserve">
+    <value>Thank You</value>
   </data>
 </root>

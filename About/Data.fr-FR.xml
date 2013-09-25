@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="dernière mise à jour?" Type="text">
+      Version 3.2
+      Cette version implémente le contexte de synchronisation et réduit considérablement le temps de démarrage. Cette version inclut également plusieurs améliorations de l'interface utilisateur, icône résolution améliorations et corrections de bugs.
+
       Version 3.1
       Cette version inclut plusieurs correctifs associés à Smart Lists et offre une synchronisation plus efficace des tâches. Cette version inclut également plusieurs corrections de bugs.
 

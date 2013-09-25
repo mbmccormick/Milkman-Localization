@@ -196,7 +196,7 @@
     <value>Autorisation</value>
   </data>
   <data name="AuthorizationDialog" xml:space="preserve">
-    <value>Melde dich bei Remember The Milk an, um Milkman zu autorisieren. Bestätige nach der Anmeldung Erledigt zum Fortsetzen.</value>
+    <value>Milkman erforderlich Zustimmung zur Nutzung Ihres Remember The Milk weiterhin. Melden Sie sich bei Ihrem Konto an und tippen Sie auf Schaltfläche Complete continue.\n\nMilkman nie speichern oder Ihre persönlichen Informationen.</value>
   </data>
   <data name="AuthorizationDialogTitle" xml:space="preserve">
     <value>Autorisation</value>
@@ -422,18 +422,6 @@
   </data>
   <data name="List" xml:space="preserve">
     <value>Liste</value>
-  </data>
-  <data name="LiveTileNearbyEmpty" xml:space="preserve">
-    <value>Keine Aufgaben in der Nähe</value>
-  </data>
-  <data name="LiveTileNearbyPlural" xml:space="preserve">
-    <value>Aufgaben in der Nähe</value>
-  </data>
-  <data name="LiveTileNearbySingle" xml:space="preserve">
-    <value>Aufgabe in der Nähe</value>
-  </data>
-  <data name="LiveTileOverdue" xml:space="preserve">
-    <value>Überfällig</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Lade…</value>
@@ -840,37 +828,52 @@
   <data name="NoLower">
     <value>Nein</value>
   </data>
-  <data name="LiveTileTodayEmpty">
-    <value>Keine Aufgaben heute fällig</value>
-  </data>
-  <data name="LiveTileTodayPlural">
-    <value>Heute fällige Aufgaben</value>
-  </data>
-  <data name="LiveTileTodaySingle">
-    <value>Heute fällige Aufgabe</value>
-  </data>
   <data name="YesLower">
     <value>ja</value>
   </data>
-  <data name="LiveTileOverdueEmpty">
-    <value>Keine überfällige Aufgaben</value>
+  <data name="UpToDate">
+    <value>Milkman ist auf dem neuesten Stand</value>
   </data>
-  <data name="LiveTileOverduePlural">
-    <value>Aufgaben überfällig</value>
+  <data name="RegistrationDialogTitle">
+    <value>Registrierung</value>
   </data>
-  <data name="LiveTileOverdueSingle">
-    <value>Aufgabe überfällig</value>
+  <data name="RegistrationDialog">
+    <value>Milkman erfordert ein Remember The Milk, Ihre Aufgaben im Web und auf allen Ihren Geräten zu synchronisieren. Erstellen Sie ein Konto und Rückkehr zum Milkmann in continue.\n\nMilkman nie speichern oder Ihre persönlichen Informationen.</value>
   </data>
-  <data name="LiveTileTomorrow">
-    <value>morgen fällig</value>
+  <data name="PostponingTasks">
+    <value>Aufgaben zu verschieben...</value>
   </data>
-  <data name="LiveTileTomorrowEmpty">
-    <value>Keine Aufgaben morgen fällig</value>
+  <data name="OverAnHourAgo">
+    <value>vor über einer Stunde</value>
   </data>
-  <data name="LiveTileTomorrowPlural">
-    <value>Aufgaben morgen fällig</value>
+  <data name="MinutesAgo">
+    <value>minuten vor</value>
   </data>
-  <data name="LiveTileTomorrowSingle">
-    <value>Aufgabe morgen fällig</value>
+  <data name="LastUpdated">
+    <value>Datenstand</value>
+  </data>
+  <data name="DeletingTasks">
+    <value>Löschen von Aufgaben...</value>
+  </data>
+  <data name="CompletingTasks">
+    <value>Abschließen von Aufgaben...</value>
+  </data>
+  <data name="LiveTileNearby">
+    <value>In der Nähe</value>
+  </data>
+  <data name="LiveTileDueToday">
+    <value>Aufgrund heute</value>
+  </data>
+  <data name="LiveTileMoreDueToday">
+    <value>mehr heute fällig</value>
+  </data>
+  <data name="LiveTileMoreNearby">
+    <value>weitere in der Nähe</value>
+  </data>
+  <data name="DonateDialog" xml:space="preserve">
+    <value>Vielen Dank für Ihre Spende! Deine Unterstützung motiviert mich für Milkman, der beste Remember The Milk client für Windows Phone-Entwicklung zu halten.</value>
+  </data>
+  <data name="DonateDialogTitle" xml:space="preserve">
+    <value>Vielen Dank</value>
   </data>
 </root>

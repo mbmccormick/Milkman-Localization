@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="¿qué novedades?" Type="text">
+      Versión 3.2
+      Esta versión implementa sincronización de fondo y reduce considerablemente el tiempo de inicio. Esta versión también incluye varias mejoras de la interfaz de usuario, icono resolución mejoras y correcciones.
+
       Versión 3.1
       Esta versión incluye varias correcciones relacionadas con Smart Lists y ofrece sincronización más eficiente de las tareas. Esta versión también incluye varias correcciones de errores.
 

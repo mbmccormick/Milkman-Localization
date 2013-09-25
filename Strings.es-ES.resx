@@ -177,9 +177,6 @@
   <data name="Authorization" xml:space="preserve">
     <value>Autorización</value>
   </data>
-  <data name="AuthorizationDialog" xml:space="preserve">
-    <value>Identifícate en Remember The Milk para autorizar a Milkman. Cuando termine el proceso de autorización, puntee en el botón completado para continuar.</value>
-  </data>
   <data name="AuthorizationDialogTitle" xml:space="preserve">
     <value>Autorización</value>
   </data>
@@ -260,9 +257,6 @@
   </data>
   <data name="JustAMoment" xml:space="preserve">
     <value>Un momento...</value>
-  </data>
-  <data name="LiveTileOverdue" xml:space="preserve">
-    <value>atrasadas</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Cargando...</value>
@@ -397,7 +391,7 @@
     <value>Completar</value>
   </data>
   <data name="CompletingTask" xml:space="preserve">
-    <value>Completar tareas...</value>
+    <value>Completar tarea...</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Fecha</value>
@@ -738,15 +732,6 @@
   <data name="TaskUpper" xml:space="preserve">
     <value>TAREA</value>
   </data>
-  <data name="LiveTileNearbyEmpty">
-    <value>No hay tareas cercanas</value>
-  </data>
-  <data name="LiveTileNearbySingle">
-    <value>tarea cerca</value>
-  </data>
-  <data name="LiveTileNearbyPlural">
-    <value>tareas cercanas</value>
-  </data>
   <data name="EmptyNearbyTaskList">
     <value>No tienen ninguna tarea cercana en esta lista. Fantástico!</value>
   </data>
@@ -840,37 +825,55 @@
   <data name="NoLower">
     <value>no</value>
   </data>
-  <data name="LiveTileTodayEmpty">
-    <value>No hay tareas hoy debido</value>
-  </data>
-  <data name="LiveTileTodayPlural">
-    <value>tareas que vencen hoy</value>
-  </data>
-  <data name="LiveTileTodaySingle">
-    <value>tarea debió hoy</value>
-  </data>
   <data name="YesLower">
     <value>sí</value>
   </data>
-  <data name="LiveTileOverdueEmpty">
-    <value>No hay tareas pendientes</value>
+  <data name="CompletingTasks">
+    <value>Completar tareas...</value>
   </data>
-  <data name="LiveTileOverduePlural">
-    <value>tareas atrasadas</value>
+  <data name="DeletingTasks">
+    <value>Eliminar tareas...</value>
   </data>
-  <data name="LiveTileOverdueSingle">
-    <value>tarea atrasada</value>
+  <data name="PostponingTasks">
+    <value>Aplazar las tareas...</value>
   </data>
-  <data name="LiveTileTomorrow">
-    <value>debido a la mañana</value>
+  <data name="AuthorizationDialog">
+    <value>Milkman necesita permiso para utilizar su cuenta de Remember The Milk para continuar. Iniciar sesión en su cuenta y toque el botón completo para continue.\n\nMilkman nunca guardar o compartir su información personal.</value>
   </data>
-  <data name="LiveTileTomorrowEmpty">
-    <value>No hay tareas mañana debida</value>
+  <data name="LastUpdated">
+    <value>Última actualización</value>
   </data>
-  <data name="LiveTileTomorrowPlural">
-    <value>tareas debidamente mañana</value>
+  <data name="MinutesAgo">
+    <value>hace minutos</value>
   </data>
-  <data name="LiveTileTomorrowSingle">
-    <value>tarea debidamente mañana</value>
+  <data name="OverAnHourAgo">
+    <value>hace una hora</value>
+  </data>
+  <data name="RegistrationDialog">
+    <value>Milkman requiere una cuenta de Remember The Milk para sincronizar tus tareas en la web y a través de todos los dispositivos. Crear una cuenta y regreso a Lechero a continue.\n\nMilkman nunca guardar o compartir su información personal.</value>
+  </data>
+  <data name="RegistrationDialogTitle">
+    <value>Registro</value>
+  </data>
+  <data name="UpToDate">
+    <value>Lechero está actualizado</value>
+  </data>
+  <data name="LiveTileNearby">
+    <value>Cerca</value>
+  </data>
+  <data name="LiveTileDueToday">
+    <value>Debido hoy</value>
+  </data>
+  <data name="LiveTileMoreDueToday">
+    <value>hoy más debido</value>
+  </data>
+  <data name="LiveTileMoreNearby">
+    <value>más cercano</value>
+  </data>
+  <data name="DonateDialog" xml:space="preserve">
+    <value>Gracias por tu donación! Su apoyo me motiva a seguir desarrollando para Milkman, el mejor cliente de Remember The Milk para Windows Phone.</value>
+  </data>
+  <data name="DonateDialogTitle" xml:space="preserve">
+    <value>Gracias</value>
   </data>
 </root>

@@ -177,9 +177,6 @@
   <data name="Authorization" xml:space="preserve">
     <value>Autorisation</value>
   </data>
-  <data name="AuthorizationDialog" xml:space="preserve">
-    <value>Enregistrez-vous pour Remember The Milk pour autoriser milkman.</value>
-  </data>
   <data name="AuthorizationDialogTitle" xml:space="preserve">
     <value>Autorisation</value>
   </data>
@@ -260,9 +257,6 @@
   </data>
   <data name="JustAMoment" xml:space="preserve">
     <value>Juste un instant ...</value>
-  </data>
-  <data name="LiveTileOverdue" xml:space="preserve">
-    <value>en retard</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>Chargement en cours ...</value>
@@ -397,7 +391,7 @@
     <value>Compléter</value>
   </data>
   <data name="CompletingTask" xml:space="preserve">
-    <value>Fin de tâche ...</value>
+    <value>Fin de tâche...</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Date</value>
@@ -439,10 +433,10 @@
     <value>Effacer</value>
   </data>
   <data name="DeletingNote" xml:space="preserve">
-    <value>Suppression de la note ...</value>
+    <value>Suppression de la note...</value>
   </data>
   <data name="DeletingTask" xml:space="preserve">
-    <value>Suppression de la tâche ...</value>
+    <value>Suppression de la tâche...</value>
   </data>
   <data name="DueDate" xml:space="preserve">
     <value>Due Date</value>
@@ -526,7 +520,7 @@
     <value>REPORTER</value>
   </data>
   <data name="PostponingTask" xml:space="preserve">
-    <value>Le report de la tâche ...</value>
+    <value>Le report de la tâche...</value>
   </data>
   <data name="Priority" xml:space="preserve">
     <value>Priorité</value>
@@ -750,15 +744,6 @@
   <data name="TaskUpper" xml:space="preserve">
     <value>TÂCHE</value>
   </data>
-  <data name="LiveTileNearbyEmpty" xml:space="preserve">
-    <value>Pas de tâches à proximité</value>
-  </data>
-  <data name="LiveTileNearbyPlural" xml:space="preserve">
-    <value>tâches proches</value>
-  </data>
-  <data name="LiveTileNearbySingle" xml:space="preserve">
-    <value>tâche à proximité</value>
-  </data>
   <data name="EmptyNearbyTaskList" xml:space="preserve">
     <value>Il n&amp;#39;y a pas à proximité tâches.</value>
   </data>
@@ -840,37 +825,55 @@
   <data name="NoLower">
     <value>ne</value>
   </data>
-  <data name="LiveTileTodayEmpty">
-    <value>Pas de tâches en raison aujourd&amp;#39;hui</value>
-  </data>
-  <data name="LiveTileTodayPlural">
-    <value>tâches en raison aujourd&amp;#39;hui</value>
-  </data>
-  <data name="LiveTileTodaySingle">
-    <value>tâche en raison aujourd&amp;#39;hui</value>
-  </data>
   <data name="YesLower">
     <value>oui</value>
   </data>
-  <data name="LiveTileOverdueEmpty">
-    <value>Aucune tâche en retard</value>
+  <data name="UpToDate">
+    <value>Milkman está actualizado</value>
   </data>
-  <data name="LiveTileOverduePlural">
-    <value>tâches en retard</value>
+  <data name="RegistrationDialogTitle">
+    <value>Enregistrement</value>
   </data>
-  <data name="LiveTileOverdueSingle">
-    <value>tâche en retard</value>
+  <data name="PostponingTasks">
+    <value>Le report de les tâches...</value>
   </data>
-  <data name="LiveTileTomorrow">
-    <value>échéance demain</value>
+  <data name="RegistrationDialog">
+    <value>Milkman requiert un compte de Remember The Milk pour synchroniser vos tâches sur le web et sur l'ensemble de vos appareils. Créer un compte et retour au laitier à continue.\n\nMilkman ne sera jamais stocker ou partager vos renseignements personnels.</value>
   </data>
-  <data name="LiveTileTomorrowEmpty">
-    <value>Aucune tâche échéance demain</value>
+  <data name="OverAnHourAgo">
+    <value>plus d'une heure il y a</value>
   </data>
-  <data name="LiveTileTomorrowPlural">
-    <value>tâches en demain</value>
+  <data name="MinutesAgo">
+    <value>Il y a</value>
   </data>
-  <data name="LiveTileTomorrowSingle">
-    <value>tâche en demain</value>
+  <data name="LastUpdated">
+    <value>Dernière mise à jour</value>
+  </data>
+  <data name="DeletingTasks">
+    <value>Suppression de les tâches...</value>
+  </data>
+  <data name="CompletingTasks">
+    <value>Fin de tâches...</value>
+  </data>
+  <data name="AuthorizationDialog">
+    <value>Milkman a besoin de la permission d'utiliser votre compte de Remember The Milk pour continuer. Connectez-vous à votre compte et le robinet le bouton complet à continue.\n\nMilkman ne sera jamais stocker ou partager vos renseignements personnels.</value>
+  </data>
+  <data name="LiveTileNearby">
+    <value>Proche</value>
+  </data>
+  <data name="LiveTileDueToday">
+    <value>En raison aujourd'hui</value>
+  </data>
+  <data name="LiveTileMoreDueToday">
+    <value>plus raison aujourd'hui</value>
+  </data>
+  <data name="LiveTileMoreNearby">
+    <value>plus proche</value>
+  </data>
+  <data name="DonateDialog" xml:space="preserve">
+    <value>Je vous remercie pour votre don ! Votre soutien me motive à continuer à développer pour Milkman, le meilleur client de Remember The Milk pour Windows Phone.</value>
+  </data>
+  <data name="DonateDialogTitle" xml:space="preserve">
+    <value>Merci</value>
   </data>
 </root>

@@ -40,6 +40,9 @@
 
     </Item>
     <Item Title="was ist neu?" Type="text">
+      Version 3.2
+      Diese Version implementiert Hintergrund synchronisieren und reduziert die Startzeit. Diese Version enthält auch verschiedene Verbesserungen der Benutzeroberfläche, Symbol Auflösung Verbesserungen und Bug-Fixes.
+      
       Version 3.1
       Diese Version enthält verschiedene Fehlerbehebungen mit Bezug zu Smart Lists und bietet eine effizientere Synchronisierung von Aufgaben. Diese Version enthält auch mehrere Bug Fixes.
 
