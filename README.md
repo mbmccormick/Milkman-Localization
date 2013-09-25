@@ -19,16 +19,16 @@ Translations
 
 This section provides guidelines for translating Remember The Milk. If you have any questions about translations, please send an email to feedback@mbmccormick.com or visit the [Translation Guidelines](https://www.rememberthemilk.com/services/translate/guidelines.rtm) page on the Remember The Milk website.
 
-1. Tone
+### Tone
 Milkman in English is written in a friendly, casual style. You do not need to translate literally or word-for-word, but where possible please try to preserve a friendly tone with your translation.
 
-2. Proper Names
+### Proper Names
 Proper names or product names do not need to be translated. Examples of these include "Milkman" and "Remember The Milk".
 
-3. Dates and Times
+### Dates and Times
 Please translate any examples of dates and times into your language (users will be able to enter due dates and other dates/times in their own language instead of English).
 
-4. Corrections
+### Corrections
 Translating Milkman is a collaborative effort – several translators may work on the same language. To help ensure a consistent and high quality translation for each language, we encourage you to correct mistakes or offer improved translations. You can do this by choosing to edit existing translations, and providing a reason for your correction (we manually check corrections) in your commit message.
 
 
