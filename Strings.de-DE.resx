@@ -5,7 +5,7 @@
     
     Version 2.0
     
-    The primary goals of this format is to allow a simple XML format 
+    The primary goals of this format is to allow a simple XML format
     that is mostly human readable. The generation and parsing of the 
     various data types are done through the TypeConverter classes 
     associated with the data types.
@@ -196,7 +196,7 @@
     <value>Autorisation</value>
   </data>
   <data name="AuthorizationDialog" xml:space="preserve">
-    <value>Milkman erforderlich Zustimmung zur Nutzung Ihres Remember The Milk weiterhin. Melden Sie sich bei Ihrem Konto an und tippen Sie auf Schaltfläche Complete continue.\n\nMilkman nie speichern oder Ihre persönlichen Informationen.</value>
+    <value>Milkman erfordert die Zustimmung zur Nutzung Ihres Remember The Milk-Accounts. Melden dich an deinem Konto an und autorisiere Milkman.\n\nMilkman speichert keinerlei persönlichen Informationen.</value>
   </data>
   <data name="AuthorizationDialogTitle" xml:space="preserve">
     <value>Autorisation</value>
@@ -664,7 +664,7 @@
     <value>EINLOGGEN</value>
   </data>
   <data name="SignOutDialog" xml:space="preserve">
-    <value>Bist du sicher das du dich aus Milkman ausloggen und all deine Daten löschen willst?</value>
+    <value>Bist du sicher das du dich aus Milkman ausloggen willst? Deine Daten werden dabei gelöscht.</value>
   </data>
   <data name="SignOutDialogTitle" xml:space="preserve">
     <value>Ausloggen</value>
@@ -802,7 +802,7 @@
     <value>Milkman ist im Offline-Modus</value>
   </data>
   <data name="AddTaskDialogSetting">
-    <value>Verwenden Sie die Smart Add Dialog zum Hinzufügen Aufgaben</value>
+    <value>Den Smart Add Dialog zum Hinzufügen von Aufgaben verwenden</value>
   </data>
   <data name="EmptyDashboardLists">
     <value>Du hast keine Listen zum Anzeigen.</value>
@@ -838,34 +838,34 @@
     <value>Registrierung</value>
   </data>
   <data name="RegistrationDialog">
-    <value>Milkman erfordert ein Remember The Milk, Ihre Aufgaben im Web und auf allen Ihren Geräten zu synchronisieren. Erstellen Sie ein Konto und Rückkehr zum Milkmann in continue.\n\nMilkman nie speichern oder Ihre persönlichen Informationen.</value>
+    <value>Milkman erfordert einen Remember The Milk-Account um deine Aufgaben auf allen Geräten zu synchronisieren. Erstell dir jetzt dein kostenloses Benutzerkonto.\n\nMilkman speichert keinerlei persönliche Informationen.</value>
   </data>
   <data name="PostponingTasks">
-    <value>Aufgaben zu verschieben...</value>
+    <value>Aufgaben werden aufgeschoben...</value>
   </data>
   <data name="OverAnHourAgo">
-    <value>vor über einer Stunde</value>
+    <value>über einer Stunde</value>
   </data>
   <data name="MinutesAgo">
-    <value>minuten vor</value>
+    <value>Minuten</value>
   </data>
   <data name="LastUpdated">
-    <value>Datenstand</value>
+    <value>Letzte Aktualisierung vor</value>
   </data>
   <data name="DeletingTasks">
-    <value>Löschen von Aufgaben...</value>
+    <value>Lösche Aufgaben...</value>
   </data>
   <data name="CompletingTasks">
-    <value>Abschließen von Aufgaben...</value>
+    <value>Erledige Aufgaben...</value>
   </data>
   <data name="LiveTileNearby">
     <value>In der Nähe</value>
   </data>
   <data name="LiveTileDueToday">
-    <value>Aufgrund heute</value>
+    <value>Heute fällig</value>
   </data>
   <data name="LiveTileMoreDueToday">
-    <value>mehr heute fällig</value>
+    <value>Mehr heute fällig</value>
   </data>
   <data name="LiveTileMoreNearby">
     <value>weitere in der Nähe</value>
