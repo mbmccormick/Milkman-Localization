@@ -876,4 +876,10 @@
   <data name="DonateDialogTitle" xml:space="preserve">
     <value>Vielen Dank</value>
   </data>
+  <data name="LiveTileOverdue" xml:space="preserve">
+    <value>Überfällig</value>
+  </data>
+  <data name="LiveTileMoreOverdue" xml:space="preserve">
+    <value>weitere überfällig</value>
+  </data>
 </root>
