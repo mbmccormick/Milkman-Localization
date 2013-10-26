@@ -373,7 +373,7 @@
     <value>Для этой задачи нет заметок.</value>
   </data>
   <data name="EmptyTaskList" xml:space="preserve">
-    <value>В этом списке нет незавершеных задач. Ура!</value>
+    <value>В этом списке нет незавершенных задач. Ура!</value>
   </data>
   <data name="Estimate" xml:space="preserve">
     <value>Оценка</value>
@@ -799,10 +799,10 @@
     <value>Игнорировать приоритет при сортировке задач</value>
   </data>
   <data name="AddTaskDialogSetting">
-    <value>Используйте Smart Add диалоговое окно для добавления задачи</value>
+    <value>Использовать Smart Add для добавления задачи</value>
   </data>
   <data name="TagsLower">
-    <value>Теги</value>
+    <value>теги</value>
   </data>
   <data name="TagsUpper">
     <value>ТЕГИ</value>
@@ -826,7 +826,7 @@
     <value>нет</value>
   </data>
   <data name="YesLower">
-    <value>Да</value>
+    <value>да</value>
   </data>
   <data name="UpToDate">
     <value>Milkman актуальна</value>
@@ -835,43 +835,43 @@
     <value>Регистрация</value>
   </data>
   <data name="RegistrationDialog">
-    <value>Milkman требуется учетная запись Remember The Milk синхронизировать ваши задачи в Интернете и во всех ваших устройств. Создайте учетную запись и вернуться к молочник continue.\n\nMilkman никогда не будет хранить или передавать вашу личную информацию.</value>
+    <value>Milkman требуется учетная запись Remember The Milk чтобы синхронизировать ваши задачи в сети и между вашими устройствами. Создайте учетную запись и возвращайтесь к Milkman чтобы продолжить.\n\nMilkman никогда не будет хранить или передавать вашу личную информацию.</value>
   </data>
   <data name="PostponingTasks">
-    <value>Перенос задач...</value>
+    <value>Откладываю задачи...</value>
   </data>
   <data name="OverAnHourAgo">
     <value>более часа назад</value>
   </data>
   <data name="MinutesAgo">
-    <value>минут(-ы) назад</value>
+    <value>минут назад</value>
   </data>
   <data name="LastUpdated">
     <value>Последнее обновление</value>
   </data>
   <data name="DeletingTasks">
-    <value>Удаление задач...</value>
+    <value>Удаляю задачи...</value>
   </data>
   <data name="CompletingTasks">
-    <value>Выполнение задач...</value>
+    <value>Завершаю задачи...</value>
   </data>
   <data name="AuthorizationDialog">
-    <value>Milkman необходимо предоставить разрешение на использование учетной записи Remember The Milk продолжать. Войдите в свой аккаунт и нажмите полный кнопку для continue.\n\nMilkman никогда не будет хранить или передавать вашу личную информацию.</value>
+    <value>Milkman необходимо разрешение на использование вашей учетной записи Remember The Milk чтобы продолжить. Войдите в свой аккаунт и нажмите кнопку Завершить для продолжения.\n\nMilkman никогда не будет хранить или передавать вашу личную информацию.</value>
   </data>
   <data name="LiveTileNearby">
     <value>Поблизости</value>
   </data>
   <data name="LiveTileDueToday">
-    <value>Благодаря сегодня</value>
+    <value>На сегодня</value>
   </data>
   <data name="LiveTileMoreDueToday">
-    <value>больше за счет сегодня</value>
+    <value>еще на сегодня</value>
   </data>
   <data name="LiveTileMoreNearby">
-    <value>более близких</value>
+    <value>еще поблизости</value>
   </data>
   <data name="DonateDialog" xml:space="preserve">
-    <value>Спасибо за ваше пожертвование! Ваша поддержка мотивирует меня, чтобы сохранить разработки для Milkman123, лучший RememberTheMilk клиент для Windows Phone.</value>
+    <value>Спасибо за ваше пожертвование! Ваша поддержка мотивирует меня продолжать разработку Milkman, лучшего клиента Remember The Milk для Windows Phone.</value>
   </data>
   <data name="DonateDialogTitle" xml:space="preserve">
     <value>Спасибо</value>
@@ -880,6 +880,6 @@
     <value>Просроченные</value>
   </data>
   <data name="LiveTileMoreOverdue" xml:space="preserve">
-    <value>более Просроченные</value>
+    <value>еще просроченные</value>
   </data>
 </root>
